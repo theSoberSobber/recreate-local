@@ -1,0 +1,501 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="School, Learning, Apps, School Website, Learn, Application, Site">
+  <meta name="description" content="Learn and have fun!">
+  <meta name="language" content="English">
+  <meta property="og:image" content="https://example.com/assets/img/duck.webp">
+  <title>Flash Games</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f0f0f0;
+      display: flex;
+    }
+    .sidebar {
+      width: 200px;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-right: 20px;
+      position: fixed;
+      height: 100vh;
+      overflow-y: auto;
+    }
+    .sidebar h2 {
+      margin-top: 0;
+      color: #333;
+    }
+    .sidebar ul {
+      list-style: none;
+      padding: 0;
+    }
+    .sidebar li {
+      margin: 10px 0;
+    }
+    .sidebar a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+    .sidebar a:hover {
+      color: #007bff;
+    }
+    .content {
+      flex: 1;
+      margin-left: 220px;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .search-container {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .search-container input {
+      padding: 10px;
+      width: 300px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    .games-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 20px;
+      padding: 20px;
+    }
+    .game-card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      overflow: hidden;
+      transition: transform 0.3s;
+    }
+    .game-card:hover {
+      transform: translateY(-5px);
+    }
+    .game-card img {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+    }
+    .game-card h2 {
+      padding: 10px;
+      margin: 0;
+      font-size: 1.2em;
+      text-align: center;
+    }
+    .game-card a {
+      text-decoration: none;
+      color: inherit;
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <h2>Categories</h2>
+    <ul>
+      <li><a href="../index.html">All</a></li>
+      
+      <li><a href="2d.html">2D</a></li>
+      
+      <li><a href="2d  platformer.html">2D  Platformer</a></li>
+      
+      <li><a href="2d clicker.html">2D Clicker</a></li>
+      
+      <li><a href="2d fighting.html">2D Fighting</a></li>
+      
+      <li><a href="2d fighting new.html">2D Fighting New</a></li>
+      
+      <li><a href="2d horror.html">2D Horror</a></li>
+      
+      <li><a href="2d multiplayer.html">2D Multiplayer</a></li>
+      
+      <li><a href="2d new.html">2D New</a></li>
+      
+      <li><a href="2d platformer.html">2D Platformer</a></li>
+      
+      <li><a href="2d platformer new.html">2D Platformer New</a></li>
+      
+      <li><a href="2d puzzle new.html">2D Puzzle New</a></li>
+      
+      <li><a href="2d sports.html">2D Sports</a></li>
+      
+      <li><a href="2d sports new.html">2D Sports New</a></li>
+      
+      <li><a href="clicker.html">Clicker</a></li>
+      
+      <li><a href="driving.html">Driving</a></li>
+      
+      <li><a href="driving new.html">Driving New</a></li>
+      
+      <li><a href="emulator.html">Emulator</a></li>
+      
+      <li><a href="emulator 2d.html">Emulator 2D</a></li>
+      
+      <li><a href="emulator fighting.html">Emulator Fighting</a></li>
+      
+      <li><a href="fighter.html">Fighter</a></li>
+      
+      <li><a href="fighting.html">Fighting</a></li>
+      
+      <li><a href="fighting 2d.html">Fighting 2D</a></li>
+      
+      <li><a href="fighting multiplayer.html">Fighting Multiplayer</a></li>
+      
+      <li><a href="flash.html">Flash</a></li>
+      
+      <li><a href="horror.html">Horror</a></li>
+      
+      <li><a href="horror new.html">Horror New</a></li>
+      
+      <li><a href="multiplayer.html">Multiplayer</a></li>
+      
+      <li><a href="multiplayer 2d.html">Multiplayer 2D</a></li>
+      
+      <li><a href="multiplayer driving.html">Multiplayer Driving</a></li>
+      
+      <li><a href="multiplayer fighting.html">Multiplayer Fighting</a></li>
+      
+      <li><a href="multiplayer platformer.html">Multiplayer Platformer</a></li>
+      
+      <li><a href="multiplayer platformer new.html">Multiplayer Platformer New</a></li>
+      
+      <li><a href="multiplayer platformer new .html">Multiplayer Platformer New </a></li>
+      
+      <li><a href="other.html">Other</a></li>
+      
+      <li><a href="platformer.html">Platformer</a></li>
+      
+      <li><a href="platformer new.html">Platformer New</a></li>
+      
+      <li><a href="puzzle.html">Puzzle</a></li>
+      
+      <li><a href="sports.html">Sports</a></li>
+      
+      <li><a href="sports 2d.html">Sports 2D</a></li>
+      
+    </ul>
+  </div>
+  <div class="content">
+    <h1>Flash Games</h1>
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search games..." onkeyup="searchGames()">
+    </div>
+    <div class="games-grid" id="gamesGrid">
+      
+      <div class="game-card">
+        <a href="../games/alien-hominid.html">
+          <img src="../assets/icons/alien.webp" alt="Alien-Hominid">
+          <h2>Alien-Hominid</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/awesome-tanks.html">
+          <img src="../assets/icons/awesometanks1.webp" alt="Awesome-Tanks">
+          <h2>Awesome-Tanks</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/awesome-tanks-2.html">
+          <img src="../assets/icons/awesome-tanks-2.webp" alt="Awesome-Tanks-2">
+          <h2>Awesome-Tanks-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/bloonstd.html">
+          <img src="../assets/icons/bloons1.webp" alt="BloonsTD">
+          <h2>BloonsTD</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/bloonstd-2.html">
+          <img src="../assets/icons/bloons2.webp" alt="BloonsTD-2">
+          <h2>BloonsTD-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/bloonstd-3.html">
+          <img src="../assets/icons/bloons3.webp" alt="BloonsTD-3">
+          <h2>BloonsTD-3</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/bloxorz.html">
+          <img src="../assets/icons/bloxorz.webp" alt="Bloxorz">
+          <h2>Bloxorz</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/bob-the-robber.html">
+          <img src="../assets/icons/BobTheRobber1.webp" alt="Bob-The-Robber">
+          <h2>Bob-The-Robber</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/breaking-the-bank.html">
+          <img src="../assets/icons/breakbank.webp" alt="Breaking-The-Bank">
+          <h2>Breaking-The-Bank</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/electric-man-2.html">
+          <img src="../assets/icons/electric.webp" alt="Electric-Man-2">
+          <h2>Electric-Man-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/escaping-the-prison.html">
+          <img src="../assets/icons/escapeprison.webp" alt="Escaping-The-Prison">
+          <h2>Escaping-The-Prison</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/fancy-pants-adventures-world-1.html">
+          <img src="../assets/icons/fancy.webp" alt="Fancy-Pants-Adventures-World-1">
+          <h2>Fancy-Pants-Adventures-World-1</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/fancy-pants-adventures-world-2.html">
+          <img src="../assets/icons/fpaw2.webp" alt="Fancy-Pants-Adventures-World-2">
+          <h2>Fancy-Pants-Adventures-World-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/fancy-pants-adventures-world-3.html">
+          <img src="../assets/icons/fpaw3.webp" alt="Fancy-Pants-Adventures-World-3">
+          <h2>Fancy-Pants-Adventures-World-3</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/fleeing-the-complex.html">
+          <img src="../assets/icons/complex.webp" alt="Fleeing-the-Complex">
+          <h2>Fleeing-the-Complex</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/freeway-fury-2.html">
+          <img src="../assets/icons/freewayfury2.webp" alt="Freeway-Fury-2">
+          <h2>Freeway-Fury-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/gunball-emperors-revenge.html">
+          <img src="../assets/icons/gunball.webp" alt="Gunball-Emperors-Revenge">
+          <h2>Gunball-Emperors-Revenge</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/infiltrating-the-airship.html">
+          <img src="../assets/icons/airship.webp" alt="Infiltrating-the-Airship">
+          <h2>Infiltrating-the-Airship</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/jacksmith.html">
+          <img src="../assets/icons/jackSmith.webp" alt="JackSmith">
+          <h2>JackSmith</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/learn-2-fly-2.html">
+          <img src="../assets/icons/learntofly2.webp" alt="Learn-2-Fly-2">
+          <h2>Learn-2-Fly-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/meat-boy.html">
+          <img src="../assets/icons/meat.webp" alt="Meat-Boy">
+          <h2>Meat-Boy</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/orion-sandbox.html">
+          <img src="../assets/icons/meat.webp" alt="Orion-Sandbox">
+          <h2>Orion-Sandbox</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/papa-louie-2_-when-burgers-attack.html">
+          <img src="https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/papalouie2_100x100%20(1).webp" alt="Papa-Louie-2:-When-Burgers-Attack">
+          <h2>Papa-Louie-2:-When-Burgers-Attack</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/papas-burgeria.html">
+          <img src="../assets/icons/burger.webp" alt="Papas-Burgeria">
+          <h2>Papas-Burgeria</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/papas-freezeria.html">
+          <img src="../assets/icons/icecream.webp" alt="Papas-Freezeria">
+          <h2>Papas-Freezeria</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/papas-pizzeria.html">
+          <img src="../assets/icons/papapizza.webp" alt="Papas-Pizzeria">
+          <h2>Papas-Pizzeria</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/papas-tacomia.html">
+          <img src="../assets/icons/taco.webp" alt="Papas-Tacomia">
+          <h2>Papas-Tacomia</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/raft-wars.html">
+          <img src="../assets/icons/rw1.webp" alt="Raft-Wars">
+          <h2>Raft-Wars</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/raft-wars-2.html">
+          <img src="../assets/icons/rw2.webp" alt="Raft-Wars-2">
+          <h2>Raft-Wars-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/stealing-the-diamond.html">
+          <img src="../assets/icons/stealdiamond.webp" alt="Stealing-the-Diamond">
+          <h2>Stealing-the-Diamond</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/storm-the-house.html">
+          <img src="../assets/icons/stormthehouse.webp" alt="Storm-the-House">
+          <h2>Storm-the-House</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/storm-the-house-2.html">
+          <img src="../assets/icons/storm-the-house-2.webp" alt="Storm-the-House-2">
+          <h2>Storm-the-House-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/storm-the-house-3.html">
+          <img src="../assets/icons/storm-house-3.webp" alt="Storm-the-House-3">
+          <h2>Storm-the-House-3</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/super-smash-flash-2.html">
+          <img src="../assets/icons/smashflash2.webp" alt="Super-Smash-Flash-2">
+          <h2>Super-Smash-Flash-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/swords-and-sandals-2.html">
+          <img src="../assets/icons/sas2.webp" alt="Swords-and-Sandals-2">
+          <h2>Swords-and-Sandals-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/the-binding-of-isaac.html">
+          <img src="../assets/icons/isaac.webp" alt="The-Binding-of-Isaac">
+          <h2>The-Binding-of-Isaac</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/the-impossible-quiz.html">
+          <img src="../assets/icons/impossible.webp" alt="The-Impossible-Quiz">
+          <h2>The-Impossible-Quiz</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/the-impossible-quiz-2.html">
+          <img src="../assets/icons/impossible2.webp" alt="The-Impossible-Quiz-2">
+          <h2>The-Impossible-Quiz-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/the-worlds-hardest-game.html">
+          <img src="../assets/icons/hardgame1.webp" alt="The-Worlds-Hardest-Game">
+          <h2>The-Worlds-Hardest-Game</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/the-worlds-hardest-game-2.html">
+          <img src="../assets/icons/hardgame2.webp" alt="The-Worlds-Hardest-Game-2">
+          <h2>The-Worlds-Hardest-Game-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/tiny-castle.html">
+          <img src="../assets/icons/tinycastle.webp" alt="Tiny-Castle">
+          <h2>Tiny-Castle</h2>
+        </a>
+      </div>
+      
+    </div>
+  </div>
+  <script>
+    function searchGames() {
+      const input = document.getElementById('searchInput');
+      const filter = input.value.toUpperCase();
+      const gamesGrid = document.getElementById('gamesGrid');
+      const gameCards = gamesGrid.getElementsByClassName('game-card');
+
+      for (let i = 0; i < gameCards.length; i++) {
+        const title = gameCards[i].getElementsByTagName('h2')[0].innerText;
+        if (title.toUpperCase().indexOf(filter) > -1) {
+          gameCards[i].style.display = "";
+        } else {
+          gameCards[i].style.display = "none";
+        }
+      }
+    }
+  </script>
+</body>
+</html>

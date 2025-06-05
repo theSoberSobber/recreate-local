@@ -1,0 +1,2432 @@
+[
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/1v1lol/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 142,
+    "title": "1v1.lol",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/1v1.lol-old.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/2048/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 143,
+    "title": "2048",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/2048.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://scratch.mit.edu/projects/453281308/embed/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 144,
+    "title": "2D-Fortnite",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fortnite.webp",
+    "is_featured": false,
+    "desc": "takes a while to load!",
+    "categories": "Fighting 2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=alien_hominid.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 284,
+    "title": "Alien-Hominid",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/alien.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/among_us/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 146,
+    "title": "Among-Us",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/amongus.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/angry_birds_slingshot_frenzy/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 147,
+    "title": "Angry-Birds-Slingshot-Frenzy",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/birdangry.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/animal_crossing/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 148,
+    "title": "Animal-Crossing",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/animal_crossing.webp",
+    "is_featured": false,
+    "desc": "takes long to load",
+    "categories": "Emulator"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/apple_knight_mini_dungeons/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 149,
+    "title": "Apple-Knight-Mini-Dungeons",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/apple-knight.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/arcane_archer/index.html",
+    "created_at": "2024-12-02T00:43:51.930529+00:00",
+    "id": 325,
+    "title": "Arcane-Archer",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/b0969647f5a6a6ad4ecdbd64fd3eb9c6.jfif",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Fighting"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/archer_master_3d_castle_defender/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 159,
+    "title": "Archer-Master-3D:-Castle-Defender",
+    "icon": "https://m.media-amazon.com/images/I/81m4VWbUg6L.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Fighter"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/arrow_master/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 150,
+    "title": "ArrowMaster.io",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/arrowmaster.oi.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Other"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=awesomeTanks.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 285,
+    "title": "Awesome-Tanks",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/awesometanks1.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=awesometanks2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 286,
+    "title": "Awesome-Tanks-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/awesome-tanks-2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/backroomsv1.5/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 151,
+    "title": "Backrooms",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/backrooms1.webp",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/baldis_basics/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 152,
+    "title": "Baldis-Basics",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/baldis.webp",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Horror"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/basket_random/index.html",
+    "created_at": "2025-04-08T12:24:31.840658+00:00",
+    "id": 376,
+    "title": "Basket-Random",
+    "icon": "https://scout.wgimager.com/f_webp/q_90/https://static.wgplayground.com/43105ae03bf75070f5e80a76bb59ac6e/wgplayground/c8a520f67cc563041d2a75bd8223939e.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=basketball_legends.swf",
+    "created_at": "2025-02-17T00:43:22.570824+00:00",
+    "id": 365,
+    "title": "Basketball-Legends",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/a1d3004c30bfd422125e43a558629ad4.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/basketball_stars/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 153,
+    "title": "Basketball-Stars",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/basketball-stars.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/bingo/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 154,
+    "title": "Bingo",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/Bingo.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/bitlife/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 155,
+    "title": "BitLife",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/bitlife.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://igroutka.ru/loader/game/25605/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 156,
+    "title": "Blocky-Cars-IRL",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/real_world.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/blocky_puzzle/index.html",
+    "created_at": "2025-05-09T19:52:25.857671+00:00",
+    "id": 394,
+    "title": "Blocky-Puzzle",
+    "icon": "https://play-lh.googleusercontent.com/mBpKOJBdmZLHFEfIMT0s27O-jX4MyAXqX-vhugHlTE0FKj188WmFCRElxY-inKX1tMA",
+    "is_featured": true,
+    "desc": null,
+    "categories": "2D Puzzle New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=bloonstd.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 287,
+    "title": "BloonsTD",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/bloons1.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=bloonstd2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 288,
+    "title": "BloonsTD-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/bloons2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=bloonstd3.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 289,
+    "title": "BloonsTD-3",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/bloons3.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=btd5.swf",
+    "created_at": "2025-04-25T17:01:47.948927+00:00",
+    "id": 385,
+    "title": "BloonsTD-5",
+    "icon": "https://play-lh.googleusercontent.com/LLEUf9Qcd6N2L4nynBArv7wHyvPLiKBJtXjFEfgD4yS80ZJtQREVjIJE_HXFRDAJxQ",
+    "is_featured": true,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=bloxorz.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 290,
+    "title": "Bloxorz",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/bloxorz.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/blumgi_racers/index.html",
+    "created_at": "2025-02-23T19:46:36.587844+00:00",
+    "id": 369,
+    "title": "Blumgi-Racers",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/dbeb9170182271f87ecd5626b68a73aa.png",
+    "is_featured": false,
+    "desc": "Blumgi Racers is a fun racing game that puts your driving skills to the ultimate test! Speed through wild and challenging platforms, but here\u2019s the twist\u2014your car can fly! Take to the skies to bypass obstacles or gain a speed boost to beat the clock. Each level offers bronze, silver, and gold medals, so aim high and set new records. Plus, unlock an array of cute cars as you progress. Are you ready to make some world records?",
+    "categories": "2D Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=bob_robber_1.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 291,
+    "title": "Bob-The-Robber",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/BobTheRobber1.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/boxing_random/index.html",
+    "created_at": "2025-04-08T12:25:20.22503+00:00",
+    "id": 377,
+    "title": "Boxing-Random",
+    "icon": "https://scout.wgimager.com/f_webp/q_90/https://static.wgplayground.com/6855106681935877ef8e937426c3d083/wgplayground/76e061c19b18bbc9f83ac7070cf0940a.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=breakingthebank.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 292,
+    "title": "Breaking-The-Bank",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/breakbank.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/bridge_race/index.html",
+    "created_at": "2025-04-25T17:17:19.983791+00:00",
+    "id": 386,
+    "title": "Bridge-Race",
+    "icon": "https://play-lh.googleusercontent.com/ym7hOY7sjtsuZ-CR2tmvtsNEgPTkufUPKdaUKcNHOvJS3bf7CIxA7Eyc23FbnzziPsc",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/burrito_bison_launcha_libre/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 157,
+    "title": "Burrito-Bison",
+    "icon": "https://play-lh.googleusercontent.com/vpTgm9u7-GzZP_MceTWpDi0HbinXd_4phCoTwf4ZspFL-115FtNRdo_SU1p-khLDnLA",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/cs_online/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 167,
+    "title": "CS-Online",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/1.6.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://scratch.mit.edu/projects/159243389/embed",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 168,
+    "title": "CS-Surf",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/cssurf.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/capybara_clicker/index.html",
+    "created_at": "2024-12-03T02:46:27.660593+00:00",
+    "id": 326,
+    "title": "Capybara-Clicker",
+    "icon": "https://play-lh.googleusercontent.com/qPhicF9zFY_Ya0xQm9RsTcCIKnjTb2gW5lAvzow6WgiodIOBMKyeAHaS4bh2WZN9BCU",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Clicker"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/car_football/index.html",
+    "created_at": "2024-12-14T14:53:24.83926+00:00",
+    "id": 331,
+    "title": "Car-Football",
+    "icon": "https://www.cokogames.com/wp-content/uploads/thumbs/custom/C/car-football.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Sports 2D"
+  },
+  {
+    "link": "https://scratch.mit.edu/projects/351793769/embed",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 213,
+    "title": "Cat-Miner-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/cat-miner.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/choppy_orc/index.html",
+    "created_at": "2025-02-04T00:50:18.158551+00:00",
+    "id": 362,
+    "title": "Choppy-Orc",
+    "icon": "https://www.speedrun.com/static/game/j1ll8jv1/cover.png?v=dc5fcfb",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/minecraft_classic/index.html",
+    "created_at": "2024-12-01T23:18:22.578007+00:00",
+    "id": 281,
+    "title": "Classic-Minecraft",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/mc-classic.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Other"
+  },
+  {
+    "link": "https://play.cplegacy.com/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 160,
+    "title": "Club-Penguin",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/clubpenguin.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/cluster_rush/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 161,
+    "title": "Cluster-Rush",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/cluster_rush.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "//games.poki.com/458768/combatreloaded?tag=pg-v3.71.0&amp;site_id=3&amp;iso_lang=en&amp;country=US&amp;poki_url=https://poki.com/en/g/combat-reloaded&amp;categories=65,77,93,242,385,1164&amp;special_c",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 162,
+    "title": "Combat-Arms-Reloaded",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/combatreloaded.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/cookie_clicker/index.html",
+    "created_at": "2024-12-01T22:39:00.673047+00:00",
+    "id": 280,
+    "title": "Cookie-Clicker",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/cookieclicker.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Clicker"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/heck_sucker/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 204,
+    "title": "Cool-Game",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/heck.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://copter.io/",
+    "created_at": "2024-12-31T16:44:31.197301+00:00",
+    "id": 339,
+    "title": "Copter.io",
+    "icon": "https://play-lh.googleusercontent.com/6g7TlSZppCcrxBONSE1T4IIiwmpWb8jBXcWtnR5-W6ht6tPDeB7qocfENArQOfJg0yrm",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/crazy_cars/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 164,
+    "title": "Crazy-Cars",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/crazycars.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/crazy_karts/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 165,
+    "title": "Crazy-Karts",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/crazy-karts.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/crazycattle3d/index.html",
+    "created_at": "2025-04-21T21:48:08.977115+00:00",
+    "id": 383,
+    "title": "CrazyCattle3D",
+    "icon": "https://crazycattle3dgithub.io/data/image/crazy-cattle-3d-online.png",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://rawcdn.githack.com/lioxryt/lioxryt-assets/d16b2cb691af033a5f3da3a496cb691c81977fc9/other/crossyroad/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 166,
+    "title": "CrossyRoads",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/crossyroad.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/deadly_descent/index.html",
+    "created_at": "2025-02-23T19:57:46.947084+00:00",
+    "id": 370,
+    "title": "Deadly-Descent",
+    "icon": "https://static.playhop.com/images/86a13_11385414_001eb/aff93732c/2a0000018d2bcc50_62a9ab3/386975e718ea4266d84b_b9ba45/orig",
+    "is_featured": true,
+    "desc": "Deadly Descent is an exciting game where you drive a car down a mountain filled with obstacles. The goal is to reach the finish line without crashing.",
+    "categories": "Sports"
+  },
+  {
+    "link": "https://deadshot.io",
+    "created_at": "2025-04-06T18:53:02.713786+00:00",
+    "id": 374,
+    "title": "Deadshot.io",
+    "icon": "https://cdn.now.gg/apps-content/com.nowgg.h5.pub501.app51613/icon/deadshot.png",
+    "is_featured": false,
+    "desc": "",
+    "categories": "Fighting Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/deepest_sword/index.html",
+    "created_at": "2025-05-12T00:12:48.480396+00:00",
+    "id": 399,
+    "title": "Deepest-Sword",
+    "icon": "https://play-lh.googleusercontent.com/DxwfTOibQNJDU_DgeF89qaW6Hbax6j1Qqy8NmxmbJF0tHHpX3zOHPBRga7OCl8Uz850",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Platformer New"
+  },
+  {
+    "link": "https://noclip.website",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 169,
+    "title": "Digital-Museum",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/digital.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Other"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/discus/index.html",
+    "created_at": "2025-01-12T13:31:38.995636+00:00",
+    "id": 349,
+    "title": "DiscUs",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/disc_us.webp",
+    "is_featured": false,
+    "desc": "",
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/doge_miner/index.html",
+    "created_at": "2025-01-19T00:33:44.799966+00:00",
+    "id": 359,
+    "title": "Doge-Miner",
+    "icon": "https://www.dolldivine.com/images/doge-coin-miner-game.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Clicker"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/doodle_jump/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 170,
+    "title": "Doodle-Jump",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/doodle.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/doom_1/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 171,
+    "title": "Doom-1",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/doom1.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/draw_the_bridge/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 172,
+    "title": "Draw-the-Bridge",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/draw_bridge.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/drift_boss/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 173,
+    "title": "Drift-Boss",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/driftboss.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/drive_mad/index.html",
+    "created_at": "2025-01-05T21:13:10.456762+00:00",
+    "id": 348,
+    "title": "Drive-Mad",
+    "icon": "https://play-lh.googleusercontent.com/V_egAxch0phxs10H_Z1QpWRrsH4phd8egT_5ZjYlFbXzXvwpUGpmJMn2h6HgbGkSlZSM",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/duck_life/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 174,
+    "title": "Duck-Life",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/dl1.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=duck_life_2.swf",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 175,
+    "title": "Duck-Life-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/dl2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player?file=duck_life_3.swf",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 176,
+    "title": "Duck-Life-3",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/dl3.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/duck_life_4/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 177,
+    "title": "Duck-Life-4",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/dl4.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player?file=duck_life_5.swf",
+    "created_at": "2025-05-04T19:37:10.438178+00:00",
+    "id": 387,
+    "title": "Duck-Life-5",
+    "icon": "https://play-lh.googleusercontent.com/JQqSn7wuCj0SxBqpBThNI33qCR9gwY0str2TIAnu-m_xrVCgZk3IPxYK2S7zC9WG0ig",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/dune/index.html",
+    "created_at": "2025-02-23T19:43:26.286591+00:00",
+    "id": 368,
+    "title": "Dune",
+    "icon": "https://cyberscore.me.uk/uploads/boxarts/29ece470dffb95f7d71a456cc7d09847ffcd135b99a903eb11e48f31737537e7",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/eggy_car/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 178,
+    "title": "Eggy-Car",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/eggy-car.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=electricman2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 293,
+    "title": "Electric-Man-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/electric.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/endless_lake/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 179,
+    "title": "Endless-Lake",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/endlesslake.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=escapetheprison.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 294,
+    "title": "Escaping-The-Prison",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/escapeprison.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=exit_path_(mp_flair_unlocked).swf",
+    "created_at": "2025-05-14T12:51:56.404613+00:00",
+    "id": 403,
+    "title": "Exit-Path",
+    "icon": "https://m.media-amazon.com/images/I/51r66KULYHL._UXNaN_FMjpg_QL85_.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Platformer New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/fall_race_season_2/index.html",
+    "created_at": "2025-02-04T00:46:50.743675+00:00",
+    "id": 361,
+    "title": "Fall-Race-Season-2",
+    "icon": "https://play-lh.googleusercontent.com/P5zoDV__iEedu7dM5NgEdCy6yiGB68rCTdGzq3B2I-G9k9CPSPwUUaEzXndcRJ69RkU",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=fancypantsadventure.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 295,
+    "title": "Fancy-Pants-Adventures-World-1",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fancy.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=FPAWorld2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 296,
+    "title": "Fancy-Pants-Adventures-World-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fpaw2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=FPAWorld3.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 297,
+    "title": "Fancy-Pants-Adventures-World-3",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fpaw3.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/fantasy_tower_defense/index.html",
+    "created_at": "2024-12-28T14:37:07.345772+00:00",
+    "id": 337,
+    "title": "Fantasy-Tower-Defense",
+    "icon": "https://img.playstationtrophies.org/images/2023/10/09/icon/1371524f9e17c4b78ee842eea0808cc0-l.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/fighter_aircraft_pilot/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 180,
+    "title": "Fighter-Aircraft-Pilot",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fighter-aircraft-pilotb.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://rawcdn.githack.com/lioxryt/lioxryt-assets/d16b2cb691af033a5f3da3a496cb691c81977fc9/other/fbwg1/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 181,
+    "title": "Fireboy-&-Watergirl",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fireboy.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/fnaf/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 186,
+    "title": "Five-Nights-At-Freddys",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fnaf.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Horror"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/fnaf2/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 182,
+    "title": "Five-Nights-At-Freddys-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fnaf2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Horror"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/fnaf3/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 183,
+    "title": "Five-Nights-At-Freddys-3",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fnaf3.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Horror"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/fnaf4/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 184,
+    "title": "Five-Nights-At-Freddys-4",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fnaf4.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Horror"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/fnaf5/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 185,
+    "title": "Five-Nights-At-Freddys-5",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fnaf5.webp",
+    "is_featured": false,
+    "desc": "takes a while to load",
+    "categories": "Horror"
+  },
+  {
+    "link": "https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/",
+    "created_at": "2025-04-09T00:29:09.299487+00:00",
+    "id": 381,
+    "title": "Five-Nights-At-Freddys-Web",
+    "icon": "https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/static/media/freddy.a3eb8395.png",
+    "is_featured": false,
+    "desc": "fnaf but made for the web browser on github",
+    "categories": "2D Horror"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/flappy_bird/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 188,
+    "title": "Flappy-Bird",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Flappy_Bird_icon.png/250px-Flappy_Bird_icon.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://dives05.github.io/flappyCircle/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 187,
+    "title": "Flappy-Circle",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/flappycircle.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=fleeingthecomplex.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 298,
+    "title": "Fleeing-the-Complex",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/complex.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/football_legends/index.html",
+    "created_at": "2025-01-15T14:31:50.745646+00:00",
+    "id": 352,
+    "title": "Football-Legends",
+    "icon": "https://m.media-amazon.com/images/I/71V37e0OrlL.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer 2D"
+  },
+  {
+    "link": "https://turbowarp.org/404950182/embed",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 189,
+    "title": "Fortnite-Z",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/fortnite-z.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=freewayfury2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 299,
+    "title": "Freeway-Fury-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/freewayfury2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/friday_night_funkin/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 191,
+    "title": "Friday-Night-Funkin",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/friday.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/funny_shooter_2/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 192,
+    "title": "Funny-Shooter-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/funntshooes.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/fury_wars/index.html",
+    "created_at": "2025-01-01T18:49:42.311984+00:00",
+    "id": 346,
+    "title": "Fury-Wars",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YXIgTFPRG0yt7CUDrBIefNhNgCpYaZmuUIuCo0QIkdXP1GrR0SsQJogMcaPIU6fG513qDw",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://gba.cluster.ws/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 195,
+    "title": "GBA-Applications",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/gba.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Emulator"
+  },
+  {
+    "link": "https://scratch.mit.edu/projects/105500895/embed",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 197,
+    "title": "Geometry-Dash",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/geometrydash.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://scratch.mit.edu/projects/389464290/embed/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 198,
+    "title": "Getting-Over-it",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQrrxS41KcTwX1ktFOfkUT75ke7wx8pBddw&s",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/gladihoppers/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 199,
+    "title": "Gladihoppers",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/gladi-hoppers.webp",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://retrogamesfree.com/007-goldeneye-usa.embed",
+    "created_at": "2024-12-31T16:53:40.522545+00:00",
+    "id": 340,
+    "title": "Golden-Eye-007",
+    "icon": "https://i.redd.it/2fxhz3mzduj91.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Emulator Fighting"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/grand_prix_multiplication/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 200,
+    "title": "Grand-Prix-Multiplication",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/grandprix.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/granny/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 201,
+    "title": "Granny",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/granny.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Horror"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/gun_spin/index.html",
+    "created_at": "2024-12-31T17:05:01.330718+00:00",
+    "id": 343,
+    "title": "Gun-Spin",
+    "icon": "https://play-lh.googleusercontent.com/fLqvWSVq5rENEvu32xl0hf96wwSHVwQm-_9xc6KZg9Vgv9PbAtf1CyBYW7i1mlAXoSA",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=gunball-emperor-revenge.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 300,
+    "title": "Gunball-Emperors-Revenge",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/gunball.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/happy_wheels/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 203,
+    "title": "Happy-Wheels",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/happpywheels.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/head_soccer/index.html",
+    "created_at": "2025-02-21T00:58:47.034471+00:00",
+    "id": 366,
+    "title": "Head-Soccer",
+    "icon": "https://play-lh.googleusercontent.com/yVRLyqu3y5wKs5WKcaeeKbTZygK-rCp6SDScAyTX4XqvJlNSi4WZzbDZf2a_zR-47g",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/helix_jump/index.html",
+    "created_at": "2025-01-18T23:53:34.087401+00:00",
+    "id": 354,
+    "title": "Helix-Jump",
+    "icon": "https://play-lh.googleusercontent.com/FJ_eBYG23JkzujCEPHIjUAUJcQOGfZzPxKCGZ9lOmj9aBZABvdftqAAx8MyDbpEXeRzC",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/holeio/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 205,
+    "title": "Hole.io",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/hole.io.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/io_pinball/gabe.html",
+    "created_at": "2025-05-08T12:16:20.607543+00:00",
+    "id": 392,
+    "title": "IO-Pinball",
+    "icon": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F05%2Ftw-google-launches-free-to-play-pinball-web-game.jpg?w=960&cbr=1&q=90&fit=max",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/idle_ants/index.html",
+    "created_at": "2024-12-01T23:21:16.022649+00:00",
+    "id": 283,
+    "title": "Idle-Ants",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/d769fe608502e4f17192cf496d1a4b16.jpeg",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Clicker"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/idle_dev_startup/index.html",
+    "created_at": "2025-01-19T00:16:28.010771+00:00",
+    "id": 355,
+    "title": "Idle-Dev-Startup",
+    "icon": "https://unblocked-games.s3.amazonaws.com/media/posts/427/responsive/idle-dev-startup-xs.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Other"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/incredibox/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 206,
+    "title": "Incredibox",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/incredibox.webp",
+    "is_featured": false,
+    "desc": "fullscreen to play",
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=infiltratingtheairship.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 302,
+    "title": "Infiltrating-the-Airship",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/airship.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/iron_lung/index.html",
+    "created_at": "2024-12-31T16:57:10.29806+00:00",
+    "id": 341,
+    "title": "Iron-Lung",
+    "icon": "https://styles.redditmedia.com/t5_67bxjh/styles/communityIcon_7jz0w3imf7a91.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Horror"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=infiltratingtheairship.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 303,
+    "title": "JackSmith",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/jackSmith.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/jetpack_joyride/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 208,
+    "title": "Jetpack-Joyride",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/jetpackjoyride.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=jewelanche_(no_sitelock).swf",
+    "created_at": "2025-05-14T12:52:45.066121+00:00",
+    "id": 404,
+    "title": "Jewelanche",
+    "icon": "https://i.ytimg.com/vi/PeB2XHXr8eU/hqdefault.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D New"
+  },
+  {
+    "link": "https://bitlifeonline.github.io/jump-up-3d-basketball-game/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 220,
+    "title": "Jump-Up-3D",
+    "icon": "https://play-lh.googleusercontent.com/FB_QkgZt0ynP1XtJo5nObDBRwEp6FpK2qFCpi2sUCfUKPeta3iUoTSxveBPeyKidTQ",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/just_fall_lol/index.html",
+    "created_at": "2024-12-14T14:50:37.382017+00:00",
+    "id": 330,
+    "title": "JustFall.lol",
+    "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAQEBUQEBIQFRAVFRAVFRAVEBUPDw8QFxUXFhUVFRUYHSggGBolGxUVITEhJiorLi8vFx8zODMtNygtLisBCgoKDg0OGxAQGi4lHyItLSstLS0tLS0tLSswLS0rLS0tLS0tLS0rLS0tLS0tLy0tLS0tLS0vLS0tKy0tLS0tLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAAABwEBAAAAAAAAAAAAAAAAAQIDBAUGBwj/xABNEAABAwIDBAcEBQgGCAcAAAABAAIDBBEFEiEGMUFRBxNhcYGRoSIyUrEUQnKSwSNDYnSy0eHwFRYzU4KiJCU1Y3OzwvEINERklLTS/8QAGwEAAgMBAQEAAAAAAAAAAAAAAAECAwQFBgf/xAAzEQACAQICBgkEAgMBAAAAAAAAAQIDEQQhBRIxQVHREzJhcYGRocHwFCKx4UJSIzPxFf/aAAwDAQACEQMRAD8ApF9BOE2GEiNwwkRuKCBXDSFcNBG4aQrhpCuGgVw0hXDQK4EBcCBXDSC4EBcCAuBAXCTC4EDuBAXCQO4SY7hIHcJMdwkx3JlAzQu8P5/ngqaj3EJy3EpVkLhJkrikh3KSy2GhsMBIjcMBArirJEbhgJXFcOyRG4Z0QJuxOo8KmlexjWOb1jg1r3tcyIuIJAzkW4FU1K9OEXJvZtSzfkTjSnJpJbeOw3GF9HDBY1Mxcf7uMZG9xcdT4WXFraZk8qUbdr5f9OlT0ats3fu+chjb7ZuGCCOWnjDGsdlfa5Lmvtlc4nUkOAGvxqejMbUqVJQqO9814fPQhj8NCnTUoK1tviYSy7ZybgsgLh2SFcFkBcFkBcFkBcFkBcFkBcKyY7gsgLhWQO4Vkx3CsgdwrJjuEQgdyziZlaB/N+Kzt3dypu7FWSHcKyYxSQ7lLZbDQ2GAkRbDASI3FBul+GovwuN4v4jzSuIUwXOUak2AHEkmwQ8lcje7saV+xNWymkqJMrCxpeIb55HAauuRoNLned3Bc1aToyqqnHO7tfd88jW8DVVNzlu3bzb7H7OU0MEU2Rr5nsY8yuGYguANmX90C/DXmuNjsZVqVJQvaKbVufE6WFw1OEFK121tEbYYtSup5I21EIqGFr2NEjS4TROD2iw43ba3apYHD1lVjJweq8nluasRxdan0bSktZZrPesxey21orZXxGPq3NYHt9vPnF7O4C1rt81HGaPeHgpa187bPIMLjVXk42sVHSjQuIiqAXZQTG5tzlBOrHW3D6wv2tWvQ9VXlTe3avf53mbSkHaM92zkc/su4ca4dkBcFkCuHZAXBZAXBZAXBZAXCsgLgsgLhWQO4LJjuFZA7hWTHcKyB3F08d3Dz8kpOyBvIsSFnKwkyVxLiALncmsxoY+mN5H0U+jZbqMr7LQWNhgJEbmr6PsPpaid0dQzO4ND42knIbGzw5v1t7dD26Ll6UrVqVNSpuyvZ8ew14KFOc2pq73Gz22wyM0rZGxtIpntl6oNAa6EH8oy3ItubfohcjR9eSrOLfXVr9u5+ZvxdNOne3Vzt2b15FhU4PTzUj4YmRMjlj9ksYGt1F2O0HA2KzwxFWnWU5ttxe/1RbKjCdJxirJoVs3WmopWOkH5QAxytO8SsOR4I7wT4pYukqVZqOzau55oMPN1Kab27H3rJlbgOKRUxfQTyNY6BxERe4NElOfajs46XDSG2/R71pxNCdZKvBX1ttt0t/ntKKNaFNujN2cdl963eWwt4qajma4NZTSNPvZWxvBJ19q3FZHOvTau5LzRpUaU07JPyOeVEIwzFGkaQ5muGu6CS7XA/ZOb7oXfjL6zBu+33XP3OJJfS4tcPZ8jomO0AqKaSE2GZpsTua8atPgQCuBhqrpVYzW74ztYikqtNwe84pl57+I5FewueSYdkXC4eVK4gZUXAPIi4AyIuAWVFwBlRcArJ3HcKyAuFZMdwrIHcKyB3CITHcl0TNCfD+f54Kuo9wpMkKsVwWQMr6ua+g3D1KvhG2ZbBWGbKdy64iyZFsMBBFsnYNXmmqI5x9RwJ7WHR4+6XKjEUumpSp8V67vUnSq9HNT4fGdxIbI3g5jh3hzSPlYrxmcX2o9Lk0U2yEhbE+lcfbppHQ67zF70TvFhb5LXjknNVVsmr+O/1M2Fdoum9sXbw3eg5htJJDWTgNP0eYMmDtMrJ/ckb3kBrvNRq1I1KEG390cvDavLNDpwlCrLL7Xn47GVW0sNOMQpnTsjcyVksT84Ba3KQ6N2vHM4i/6S1YSVV4aoqbacWmrevMzYpU1iIOaT1k1n6Fj/AElhtE05HU0d9SyINL3EbrtZqVn6HFYh5pvv/Ze62GoLJpd36OdbUYz9Nn6wNyxhoYwGxcWgkkutxJJ0XfweG+np6ree1nAxmJ+onrJZbEQ6utmlH5WWR7QBZrnEtAHJu5XQpU4P7IpFNStOa++TZr8O6PiQHTzgA/Vibfye7/8AK5NXS6WUI+fJczqUtEt5zl5c3yLiq2NpW08jYo7yljssjnF7g8C7bX0GoG4LJDSNZ1IuTyvmlwNc9HUVSkoLO2TfE5qG6XXornm7mr2e2NfNaSozMi3hm6WQdvwD17t65mK0lGn9tPN8dy5/g6uF0bKp91TJcN75fnuHNtdnGw5Z4GhsWjXsG5jtzXdx3HttzUdH4x1Lwm89q+fMu4ekcGqdqlNZbH2dvj+TJ5F1LnKCyIuARYi4CSxO4CSxO4CCxO4CS1O4BWTHcIhMlcsImWaB/N+Kobu7kLirJDItXLb2Rv49gVkI3zZOKIJCvLbirJExFkxNhgIItjkLQXAOOVpIBdbNlbfV1uNhrZRk3Z2ErXzO54XSCCCOEOLhGxjA473BosF4utU6SpKbVru56mlDUgorcrGRxzGW0OKZ7F0ckMYma33rhzg1w5kAbuRK6mHwzxOE1d6bt6XRzMRiFh8Vfc0r+tmP1nSFTtH5KOWR3aBEzxJufRQp6Iqt/e0vX55kqmlaSX2pv0KmiwqbGHGpmmYxjXGMRtYXFgADrAE2F8wN9b+FlqqV6eAXRQjdvO5lhQnjn0k5WSysafDdjqKGx6vrHfFKc/8Al930XNq6Rr1N9l2Zfs6FLR1Cnuv35/oZ21wMTwB8bR1kIJaAPej+swDwuO63FT0fiujqasnlL88SGkMN0lPWis4/jejm7WL0DZ5w6vsnVdbRxE72tyHvZ7PqAD4rzGNp6leS45+Z6nA1OkoRfDLyyLdZTWc0qAKLEHOLA5jZMwaQD7D/AGrt7RfQ82r0MX9Rhkr2bVvFczzM2sNi22rpO/g+HcdIhla9oe0gtcAQRuIOoK8/KLi7Paj0kZKSUlsYVRA2RjmPALHAgjmCnGTjJSW1BOKnFxlsZyvGMLdTTOidcgatd8bDuPfwPaCvS0K6qwUl8Z5TEUHQqOD8O1ELIrrlAkxp3AIsTuAgsTuAgsTuAhzFK4DbmKSYBwR3cPPyRJ5A2TiFSRGp5Mo7eAUoq7JLMrXarQi1MSQmSuKsok7iLKQmwwEEWxVkiLZrcO2mxKWNkFMwOyNazrGxF8mgsC57iWg6cQuVVwWEhJ1Kj252vZeC2m+njMTOKhTWzK9r+uwlUmw1VO4yVUoY5xu7XrpSe0+6PAlVz0pRprVpRvbwXMnDRlWo9arK1/F8vyaSi2LoomkFhkcQRnkOYi4tcDRoPaBdc6ppKvN7bdi+XN9PR1CC2X7/AJYqOj0uhmqKV/vNIPK7mEscfG7Fr0papCFVfL5r3Mei24TnSe72yfsbklcU7QEAc12rwf6PPdo/JSXc3k0/Wb4E3HYexehwWI6WnZ7V8ueZx+G6GpdbHmvdfPYuej6osJYTzbIPEZXfJnmsmk4dWfh78zZoip1oePs/Y2K5J2jG7eUftRzDiDGT2j2m/Ny62jamUoePz0OHpelnGp4e69xWxeKZT9GedDcxnkd7mfMjx7EsfQv/AJI+PMNF4qz6GXhy9/M2C5R3Cn2mwn6TF7I/KsuWdvNnjbzAWvCYjop57Ht5mLHYXp6eXWWzl4mSwLZ59SczrsiFwXWs5x4hoPqeC6eIxcaSss2cbCYKVd3eUePIrKyjdFI6N/vNJB7eR7iLHxWmFRTipLeZKlN05uEtqGCxTuQEFidwEFilcBDmKSYDTmKSYDtLFvPgoze4ixySwFyorMRWSuLjc/8AYLTFWRNZDZCkTuJITJJirJE7jdkxMUAgi2W2zBhFXEJ2MfE52QtcLtBdo023e9bfwJWXGa/Qy1HZrPL19C7CuHTRU1dPLM7LHG1oDWgBo3AAADuAXkW23dnqEkskKSGBAGNq8sGLxyNLbSgNeAQSHkZLEcLkRnzXWhepgnF/x2fnmcapalj4yX8sn+ORslyTslXgdVmD4Xe/A9zO0x3PVO8W28QVpxFOzU1skr+O/wBTLhautrU3ti7eG5+Q7jeHCphdGbZt7HfC8bj+B7CVHD1nSmpefcSxVBV6bhv3d5i9m5DDVsDgRcmNwO8E6W+8Grr4tKpRdu/54Hn8DN0sQlLLc/nfY6GuCeoImKYeyoj6t5IF2m4tmBB4X7LjxVtGq6UtZFGIoRrw1JFHjGBRQU5khDhIwsdnLiXaOAuOA330HBbKGKnUqas9jvkc7FYKnRoudNZqzvftLfBMRFREHaZxo8cncx2HesuIo9FO27cbsHiVXp62/f3lgqDUBAGW2zw24FQ0aizX/Z+q7wOniOS6WArW/wAb8DjaVw90qq7n7GSLF1LnEEFidwEFilcBtzFJMBtzFJMCQ2OwAVbd2QZBqXZj2D17VfBWJJEVzFYmMaIU7gJITJJirJFlxuykJsUAkQbFAf8AfiFEidn2dxD6TTRyn3i2z/8AiN9l3qD5ryOKo9FVlDy7tx6zC1ulpRn59+8slnNBiNq5K01JhjdKY3Na5rIwW6HQ5nN13g7zaxC7GCVBUteSV1tucPHyxLrdHBuz2W938RT1eC1FK1kz2tF3CwDszmvHtDNbTgeJ3LXDE06zcI8DDVwtXDpVJLf67czpkEoe1rxucA4dxFwvOyjqtp7j1EZKUVJbyBFhWWqdUh5GZoaWAaEgAXJ/wt8u1Xuveiqdtm8zxw1sQ6ye1Wt88CyWc1GU2sw4teKmPS5GbsePdd6AeA5rp4KtddHL4jh6Tw7jJVo+PfufzsNNTTB7GvG5zWu8xdc6cdWTXA7NOanBSW9XHVEmR8QizxPZ8TXDxtop05as0+0qrw16Uo8UzGYNWmCQP1yGweObefeN/nzXWr0+kjbfuPM4PEuhU1tz2936N01wIBBuDqDwIXGatkeqTTV0QMSxeODQ+0/4Bv8AE8FfSw8qndxMmJxtOhk83wXvwMniWJyzn2jZnCMaN8eZ7106VGFPZt4nBxGMqV39zy4LZ+yuMavuZRBYpXAQ5iaYDbmKSYCGx3KlrZCYKk8B4ojxEkQnsVyZIZexTTAZe1TTAZcFJMBSCY3ZSBsUAkRHWNUGxG56Oa6zpKc7j+Ub3izXjyynwK4ulaV0qi7n7e52NE1s5Un3r39jdrincAgCDjdF18D4/rWu37Y1b6i3irsPV6OopGfFUelpShv3d+4jbKz56VgO9l2Hsyn2R93KrMZHVrPtzKdHVNfDx7MvL9E7EawQxmQgkC2gtfUgDf3qmlT6SWqjRiKyo03Nq9iNguK/SGuuA1zT7t7+ydxv5jwVmIodE1vTKMHi1iE7qzW7sI2L4xDldGB1hIIIBswf4ufd6KdDDzupbCjGY+ioumvuvl2efIrqDG3RRNjDAS2/tF2lrkjS3bzWiphlOblcw0NJSpUlTUb233ETY1UO+sG/ZaB6m5Tjhqa3XK56SxEt9u5c7kGWRz/fc532nF3zVySjsVjHOrKfWk33sT1adyJNjxKVsfVNdYa6/XA5A8BvVLowctZo1RxtWFLo07L17iCWK65lCLE7gILE7gIcxO4DbmKSYDbmKSYCbWF+Kle4mR3sU0xjL2KaYDD2KaYDL2qxMBh7VNMAsqLkhqymJjjGqDYiQxqg2BYYTVGCZkw+o4E9rdzh90lZ68Okg4cS2hV6Kop8Pxv9DrjXAgEag6g8wvLNWyPXJ3zQaBmPx7GagSvhBEbWm3s++4WuDm4aEbrLq4bDU9RTedzgY3G1lUlTWSXDb58hvAcXFO17XNc7MQ4WI32sbk9wUsTh+laadirB41UIyUk3fMcr8dkmaWZGNYd41c7z0+SjTwsYPWvmGI0jUqxcLJJ+PzyK6Jp3C+uhAv7Q5WG/duVza2swJvYt/qTosMda7yGDt97yVMq63ZmiOFltm9Xv2+QU01JD77y49+Uen70l0s9isWKnRW5y9CtqNr6SP3WM8gT6q2OEqy2stS/rBIr5ukID3GhWrR3EtTq8SI/pDl4BTWjohap/YQOkKbkn/wCdAdqn9h2Pb+/vxsPe0JPAW2Mg6cnts/BE2HbClf70du0Ej03Kt4SqtjKpUE9sfLIsIcQpZPclseTtfUfuVbjUjtRRKgt1/H57DzoeIsRzabj+CFNFMoNDLmKaZAacxTTAacxSTAZexTTAZexTTAYe1TTAYe1TTAYe1WJgFlTuSI7QptkR9jVBsB9jVW2BIY1QbA6LshWdZTBp96P2D9ke76WHguBjqerVb458z0mja2vRS3xy5ehdrGdAyu11LaRko+sMp726j0Poulgqn2uPA4OlqVpxqccvL56FIxi2NnJJ9HQl/tH2WfEePYBxVFSqo5by+lQc1rPKPHkNYlj9PSNIZbNz3uPeVGFCdV5mqDtlSVu3eYqt2oqqp5jgbI93wsY6R3k0XXQhhqdNXm7d5bDD3eebF02xOLVOroxGDxllDdPstzOHiAlLHYansd+5f8NccLPhYuKXomlOstXGOxkLn/5i4fJZ5aXj/GHqXLCPeyyi6Jqb69TUn7IiYPVpVL0vU3RXrzJ/Sx4sks6K6Ab5Ks98kf4RhQela3BevMawsO0DuiygP5yqHdIz8WI/9WtwXrzH9NDtI8nRNSfVqKod5icPRgUlpervivXmR+ljxZAqeiR35qrHc+D8Q/8ABWx0v/aHr+iLwvBlRV9G2JxaxmGUcmSljz4PAHqr46ToS6114ciuWFn3lbIzFKLWWGoYBvdkL4x/jbdvqrlLD1erJGeeGe9E3D9tA7+1AP6QUJ4VrYY54VPNGko62KcXjcDzH1h3hUOLjtMU6coPMcexCZAZe1WJgMvapJgMParEwI72qaYDD2qxMBOVO5IcdTg9h5pKbRXcT1BHdzRrJjuOsaotjJDGqtsC62fxL6M9ziCWubYtFr5gfZOvefNY8VR6WKW9GzBYr6ebbV01/wALCq2knfowNjHZ7bvM6eiohg6cduZdV0pWnlD7fV/PArnPc83e5zjzJLj6q9JRVkjnznKbvJ37ydQUYd7b/cHhmPJUValsltLqNJNa8+qvXsKHa7asRjq47X3WG4BXYbC3zZqSlVd3s3Iq+j7Z9uJyyzVWZ0EZaA0OLRJKdbEjWzRYkC18w7QrcdiHh4qNPa/wdHDUIvbsR12ioooGCOGOONg3NYwMb5BcGc5Td5O7OgklkiQojAgAIACAAgAIACAAgAIApcX2Uoau5mp4y4/nGjqpfvss71Wiliq1Lqy5eRCVOMtqMZiPRlLC7rcOqSHDURy6eAkaPQtN+JXQp6TUsqsfFcv2ZauDUlZeo9R9fly1MLoZ26OaReN/J8bgSHNPYTbceF560HnB3RwcThpUJWex7Bb2qSZmGHtViYDD2qaYEd7VYmAw9qmmAjKnckLZM3n6FDiyuzJDHt5hVtMVhYjadxASux3YpsdlFslcfY1VtgSGNUGwJVNAXuDRvPoOJ8lVOWqrk6cHOSit4zthjLaaLIzTSwH4qvDUnUldm5pTkoR6qORVNQ6Rxc43JXaiklY2JWR3fo3w76PhsII9qQdc7neT2m37QzIPBecx1TXry7MvI6VGOrBGmWMtAgA0ABAAQAEABAAQAEABAAQAEARcSpRLGWcd7TycN37vFWUp6krmfFUFWpOO/d3mMe1dZM8mR3tViYEd7VNMBh7VYmBGe1WJgJypkiKwK1siSIwq2wJMbVW2BIjaq2wJDGqtsCQxqrbAtcOAYx8p4Cw+Z/BZazu1E24VasJVPBfPI5LtlihmnIvoCuthoasTXQhaJT4bRmomjgF7yyRx3G8B7g0nwBJ8FdOepFy4K5ojHWdj00xgaA0CwAAA4ADcvJN3OoKQAEABAAQAEABAAQAaAAgAIACAAgAIAyWLwZZnDgTmHjqfW66dCV4I8rjqfR15Ljn5/srXtWhMykd7VYmBGkarEwI8jVYmAmyZIhsCtZEkxhVsCRGFWwJMYVbYEmMKtsCRG1VtgL2jquoob8XAnz/hZUUlr1jpxjajCPHM4lPLmcXHiV21kjYlZGr6KKPrcUjJ3RMll7NAIx6yA+Cx6Qnq0H22Xv7F9CN5neV543AQAEABAAQAEABAAQAEABAAQAEABAAQBRbRR+013NpHkf4rZhnk0cHS8bVIy4r8f9KORq2pnJI0jVYmBHkCsTAjSBWIBFk7kiGwK5kSTGFWwJMYVTAkxhVsCTGFWwJEbVW2BQdK1XkjZEOX8E8DG7cjtuP3pcEcpuuoWnVeg2j/APNVB/3MTey2Z7/2meS5OlJ9WPezVhltZ1Zck1AQAEABAAQAEABAAQAEABAAQAEAYrpR25/oinYY2NfUzFzYmOv1bQ0Ave8CxIF2iwIuXb00rgc52T6bav6SxmINgdTPcGukYwxvguQA/wB4gsHEb7a30sW42Fc7Pj7LsaeTreBB/cFdh39zRytLx/xxl2+36M9IFvRwSNIFYgI0gViAjSBWIBFlIkRYj1kUc/8AeN9r/it0f56O8SnB2vDh+N3IuxMLTvx/I/GEMzkmMKtgSYwq2BJjCqYEykZd7R2j5qmbyZZRjrVIrtRznpUq81Tl5ABa8FG0DsQzk2Ya62lp3bocpcmFtfbWWWd57bO6oeka4WkJXrW4JczbQVoG4WEuAgAIAi4riMVLBJUTuyxRNc97rXs0cgN57EAeedrOmevqXltGRSwagWDX1L28C55uG87N3cyp6q3iuZGPbLFA7OMQrr9tVI4eRNlLVQrm12U6aq6BwbXAVMPFwa2OpYObS2zX9xAJ5qLhwHc75guLQVkDKmneHwyC7XDTsII4EEEEcCFAZNQAEABAAQBwb/xHvvU0jeUUx83tH4KcNomcZa4m/cfkhNsD2dXe1TA9kZ+X71Kg/vMGk43w77GvyZ6QLoI82RpArEBGkCsQEaQK1AN2UiRE2JHX0UsW9zHdYzncXuB3i48VXXl0daMtzyZ0a8Na8ey671+h+NXM5hKjCqYEmMKtgSYwqmBYUA9sHlc+hVFXqmnCL/Kuy/4OL7b1PWVch7SulQVoI6lHq3M/dXFp6U2EpuqwykaRY/R4XEcnPaHu9XFedxMr1pPtZ0IK0Ui9VBICAAgBupp2SsdHIxr43Atcx7Q9j2neHNOhHYgCHT4HRxtyx01Mxvwtgja3yAQBU4x0f4TVAiWigBP142fR5L880difFAHNNo+ghwJfh9SCP7mo0I7pWDXuLfFSUmKxvOibZSowuidDUvYZHzOlyMcXMjBa1trkC59m570m7jNqkAEABAAQBwX/AMRLf9Npv1d//M/irqKvcjIxNVsFLDhTcUdI2zg1xgy6thkORj899SSWHLbc7fwSjTaV+/8ABSq6dTUPUczP9GtyY30AUaXWRDHK+Hn3GdkC6CPLEaQK1ARpArEBFkCtQDdlIkUvRjVZZ3t5i6jj43gmdOu9VqfBmgxGm6qZ7B7t7t+y7UeV7eCVKevTTOfXhqVGls3dzCjTZUSo1UwJMaqYEyJ2VkjuTHKiedl2mrC7ZPsOCY3Nmnee0rqwyidamrRRXvuQQN5BA7zuU0yZ6xpYgyNrBua1rfAABeYbu7nRHUgAgAIACAAgAIACAAgBqoqWRi73AfM9w4qmtiKdFXqSsWU6U6jtFXKuTaBl/ZaT2khvpquPV05Ff64X73bn7GyOj5W+5i4scaT7TSO291XDTrv99PLsfs17ilgZLYyzikDhdpuF3KFenXhr03dGKUXF2Zz3ph2JmxGKKelGaogzjqrhvXROsSGk6ZgWggG17nsWqlNRlmQkroymBYRiuIU0OFVFJJBSROjE9TIx8TpIInXbE1rgLnRozNuNAdNb31KkEnqu5nhQtU1ztdWPybh+i75LNDrIlilejPuf4MvIuijyRFkViAjSK1ARpFYgG1IkUHRzh8jpjNY5ACO8oxtRKOqdLEu61VtNxtBFHdj3yxR2aWuzO1sDdtgN+9yxYao0mkmyutQclG7zSs/Yr6XqJTlhqI3v+C2Qu7jcq6VSS60bIpeG4PPtVh1gINjoRoRuIKGZWrZMkxqtgDFZclJK7mLeh/eqts0jZhl9jfFpfPM4HVPu9x7Suoth14rIewdmepgZ8U9O370rR+KjUf2Puf4JxV2j1YvNm4CAAgAIACAEvka3VxAHaQEN22gs8kQJ8cpWb5WHsac5/wAt1lnjcPHbNeGf4NMMHXnsg/HL82K6o2tiH9mx7jzNmD8T6LHU0tTXUi36Ln6GuGiqj6zS9fnmVlTtNO/RuVg/RFz5n8LLn1dJ4ieSer3c3+jZT0dRhtz7ytfUOcbuJJO8k3J8VzZXk7vNmxQSVkgB6jYVh+Ge2h3KLiQlAs6GudGbg6cRwKnh8RUw89em+T7zJWoRqKzNJR1jJRcHXlxXqsHpCniVZZS4cuPy5x6tGVN5klbyoRP7jvsu+ScdqKq/+qXc/wAGWkXRR5AiyK1ARpFYgIsitQCFIlYydVtq9jOoomiKMaZ98ju2/BEcKm9apmzsRp2zM5NUvkOaR7nOPEklalFLJA3bYKgmMTmyMJDmkHTvSkk1ZkU7/azrvW52xyHe+Njj9rUH5LmQyuuDOdiF91+K/Q9GkygrduKrqqG3F2Y/h+ChSV6h0KEftiu9+xw5zrldE6ha7INzYjSD/wBzTekrT+CqrO1OXcycOsj1HdefNgEABAw0AZzbSaZkTTGXBlyHlpseGW5G4b/Rc7SUqsaacHZb7HS0XClOo1NXdsr+vj+zAVNaWm72SuHxtb13+UXf6LhamvtefbzeXqegvqbFl2clyE02LQSHKyWMu+AuyvHex1iPJOVCpFXcXb08yMakJOyZNDlTYnYUHosKwoPSsKwsPSsKwoPUbEbEmGptodyg4FcoE6nqSDdpULNO6KZ01JWZf4fjId7Mmh5rt4PS7j9lfNf25r3XlvOXXwTWcC1kILCRusdfBeipyUrSi7pnMrK0JJ8GZWRdJHjiNIrUBGkViATSU/WyNZwJu7saNT6aeKc56kWyyjDXmk9m/uNJ9KZyb5Bc7UfE6X1keB5yLtV6C5qsONei5BxJNDC6eVkLBcucB6qM5qMW2RtqrWZ2BwDcrBuja1gPPLvPndc+Cyu9+Zyq8rz7svniPRpMpMT0t4jYtgB90AFGGX8jtUYWl3ZHL7rWay62IP8ArOj/AFmn/bCqr/6pdxOHWR6guuEawXQAd0AC6AETRB7S1wBBFiCLjySaTVmNNp3Rg8dwF8BL4wXR7y3e6Mfi3t3jjzXCxmAdP7qecfVfo9FgtIxq/ZUylx3Pk/i4FDUUVPUC0sbHfaaCR3HeudGpOnnF2OhOmpZSVyvfss1utPPUQ/otkLmfdKu+rb68U/DMp6BLqtrufMYfRYpF7ksMw5PYGO9LfNS18LLbFx7ncWrXjskn3q34G3YvXx6y0LiPijJI9A5PoKEurU8/iI9PUj1oeTEN21hBtJFMw9zT8yCpf+fN9WSYni4LrJrwJcW11Gd73N74n/gCqngay3eqGsVSe/0ZMj2ipD+fj8Tk/asqnhKy/iyXTU3/ACRLhxaA+7NCe6Vv71XKhNbYvyHrQe9eZZUtcHG2Zp7QQVRKm0RcVtRr8Ee8wuv7tjY+C7egnUvJfxyt377e55/SqglK22z/AAVchXsEeBI0hVqAjSFWICXSEQwPndxBA+w3f5n9lUVXrzUEaqcdWnffLLw3+v4MJ/Wx3Nbvpkavp0YAuV1zcFmRcDo/R9gbooXVz2nN7senu30Lzyt87LHWqKc1T+dxkxE2otrd+f0aaMoZyCfRkA5z7rAXnw3etlnqvK3Evw0bzvwz+eJxDbHEzUVT3X0uVppx1YnaoxtEorqwtLrYk/6zo/1mn/bCqr/65dxKHWR6guuIagXQAd0AC6Qw7oATIwOGvgeIQBlcb2Ya4l8VmP32/NPPh7p7vLiufidHxqfdDJ+j5HVwmlJ0/tq/dH1XPx8zLT9bA7JM0tPC+5w/RcND4LiVcPKm7SVjvUqlOtHWpu6+beA7HUtPFUOLRJxH2vtqD4g2UGiLV9ot0mbR4a8cntD/AJpWtsIOmt2RDlwmifq+kpieYiDT5hWqvWjsm/Mqlh4v/iI0my+HO/8ATAd00jfkVNYzEL+Xoit4WPxDR2Pw7+4P/wAiY/8AUpfX4j+3ouQvpYFjg2xNE+QBlLEQCMznB0rWjtzk6qdKeLxL1Iyfa9iXl+CqsqNCOs9u46bUgNidyDHfJeppRs0jzOKl/im+x/gyshXTR5Ezu1W0TqPLHCB1z25i865GHcArqNFVW77Eb6NPVjrcTOQbdVQP5YMmZxBFnD7JGoWh4SC6uRfqqas/XP8A4a1uM02JUroYXZJclhE42doOB4rH0c6NTWlmuIqlOzjJbsrGB/qzU/AV0PqIFvSxMiXJ3NJLwoRmQGY2jbqRxd2BQk3bIjO9sjXVHSFUZmimyxwM0Edr5mjT2lRHCxa+7aUqLjlc0uDbUUdVYPIp5uR1hcez4f50Vco1Idq9TLUw0Xmsvx5bvDyLLaYyxUEhgY6V79CYWmazBu0aL238FTrqU1fK3Esw9CyttbefscClku4333NxxB5HkVtOlawm6ALzYTXFKP8AWYPRwKqrv/HLuJQ6yPTocuOaA8yABmQAd0hh3QAd0AAoAi1VCyRpa4NLTva4ZmnzUZRjJWkronCcoS1ouz7DN1+x0Z1iL4zy/tY/Im481gq6Npyzg7eq+eJ1KOmKscqiUvR8vQqZNnKpnuFjh2PynycAPVYp6MqrZZm+GlsPLrXXhyuNf0fWDfC4+LT8iszwFf8Ao/TmXLHYV/zXryFtoqs/mHeJA+ZUfoK/9H6cweNwy/mvUl0+C1j/AKjG/afe33bq2Oi6z22Xe+VyieksNHY2+5c7F5QbLhus8hefgaOrZ4nefRbaWiacc6jv6LmYK2lZyypxt6vl+TQwRNYA1jQ1o3ACwXThCMFqxVkcyc5Td5O7G8RdaF/2SPPRXUuujJjXbDz7jKSFdFI8qYjpIpCRFVN3NHVP/Rtqw+I+RWrDS1W48czqYeSnBLevn4MGZVsuaFATHOWuDmkhw1BBsQUPPIstkXX9aKz++eqehp8CPRoyhclcvCzIuApktkXIuNxYmTuR1CyoMfqYP7KaRvZmuPJVypxltRB01vQvGNoJattqlkMrrWE2QMqGd0g1PcbjsUVRjHqlkXbf5mbdomy40HR0L4tRj/fA+TXO/BU1/wDWycNp6VDlySy4eZA7h5kBcO6ADzJDDzIAPMgAZkAHdIYDY70AF1beQ8kAGI28h5IAWCgAXSAU0oGRMbfaE9paPW/4K2grzMOk5Ww77bfky0hXRSPNDZw36Ux8Tv7NzS1xO4XGlu0GxROooZ7zVhYy19ZZLecVxegfTTvgkHtMJHYRwI7CFvhNSjdHXTuiJmUrjHMyLjK0uVNyYnMi4AzIALMlcA86LhYMTJ3Fqjczr6qLHFWNJ0XC+MUv2pz5U8p/BZ8R/rZbDaeisy5tidww5ACg5IA8yBh5kWAMOSAPMgdw8yAuHmQAeZIYeZAAzIAPMgA7pDHI0mCKLbDFYIBGyaWOMvLi3OcuYMAB/bHmtOFi227HP0nCU4RjHjf0/ZkqrajDotXTiQ/BGCb/AOJbUqj2LzOVDBv+WfovMzeN9I73tyUzBG3cHHeO4KyGFzvI0qhfrbFuWwxWLYvJUkOlsZGi2fi4cLrRGKjsNcIKKyIGZTuTHcyVwK0uVVyYnMi4wZkrgFmQAMyLgFmRcAnOSuBs+h2PNirXfBDUO82iP/rWfEP7LE0d5D1hsFxQeiw7hh6VguKDkWHcMOSC4eZA7hhyAFZkrAHmQAeZFhh5kgDzIHcPMgLh5kASIVBkkcS6cMQa+vjh0PUwg87PkcSR91rF1cBG1NvizLiW3JJHOTOt1yhQGzMlcmoic6LjsHmRcB3Mi4yKVUSCQMCQBIAJAw0gAUAbnoa/2i/9Vm/5sKz4jq+IbjtYWQAwgYpIAwgAwgYoJDDQAoJAGEDDQAaQBoGGEgFIAlw7lBliPOvSv/tiq76f/wCvEuxhf9MfH8syVOuzIK8QEAGEwAgQtIZ//9k=",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=kawai_run_2_offline.swf",
+    "created_at": "2025-05-14T12:53:46.659983+00:00",
+    "id": 405,
+    "title": "Kawai-Run-2",
+    "icon": "https://i.ytimg.com/vi/xJCFnIS-5X0/hqdefault.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Platformer New"
+  },
+  {
+    "link": "https://krunker.io",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 209,
+    "title": "Krunker.io",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/krunker.io.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=learn_to_fly_2_(cracked).swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 304,
+    "title": "Learn-2-Fly-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/learntofly2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/little_alchemy_2/index.html",
+    "created_at": "2025-01-19T00:28:50.071917+00:00",
+    "id": 358,
+    "title": "Little-Alchemy-2",
+    "icon": "https://play-lh.googleusercontent.com/3Pr4gCB3uzsYyoFZZiDOuvq_7SeQPjUQnHiUrwug154RnTGJ_YAX5zvZfCH-4r2JKBOX",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://lolbeans.io/",
+    "created_at": "2025-02-04T00:45:40.731022+00:00",
+    "id": 360,
+    "title": "Lolbeans.io",
+    "icon": "https://www.kidssearch.com/images/LOLBeans-io-Game.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/madalin_stunt_cars_2/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 210,
+    "title": "Madalin-Stunt-Cars-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/madalin.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://makeitmeme.com/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 211,
+    "title": "Make-it-Meme",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/make-it-meme.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/marble_skies/index.html",
+    "created_at": "2025-03-11T22:46:53.572092+00:00",
+    "id": 372,
+    "title": "Marble-Skies",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/marble_skies.webp",
+    "is_featured": false,
+    "desc": "press space to start",
+    "categories": "2D  Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/masked_special_forces/index.html",
+    "created_at": "2024-12-14T14:55:26.533064+00:00",
+    "id": 332,
+    "title": "Masked-Special-Forces",
+    "icon": "https://unblocked-games.s3.amazonaws.com/media/posts/310/512-2.jpg",
+    "is_featured": false,
+    "desc": "reload if not working",
+    "categories": "Multiplayer Fighting"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/math_duck/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 212,
+    "title": "Math-Duck",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/math-duck.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=meat.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 305,
+    "title": "Meat-Boy",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/meat.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/minecraft/index.html",
+    "created_at": "2024-12-01T23:20:14.550101+00:00",
+    "id": 282,
+    "title": "Minecraft",
+    "icon": "https://images.icon-icons.com/2699/PNG/512/minecraft_logo_icon_168974.png",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/mini_golf/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 214,
+    "title": "Mini-Golf",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/golfmini.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/mini_shooters/index.html",
+    "created_at": "2024-12-14T14:59:15.440981+00:00",
+    "id": 333,
+    "title": "Mini-Shooters",
+    "icon": "https://play-lh.googleusercontent.com/UrRjrhl4gHwa9rfQhwRBWWiFJUK5EmoRROvedJriYcIgiGy2wws3I4tDfC02HGISMH3H",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/money_movers/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 215,
+    "title": "Money-Movers",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/moneymovers1.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/monkey_mart/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 216,
+    "title": "Monkey-Mart",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/monkey-mart.webp",
+    "is_featured": true,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/motox3m/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 218,
+    "title": "Moto-X3M",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/motox3m.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/moto_x3m_3/index.html",
+    "created_at": "2025-05-08T11:35:35.389759+00:00",
+    "id": 389,
+    "title": "Moto-X3M-3",
+    "icon": "https://motox3m.gitlab.io/logo.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/moto_x3m_pool_party/index.html",
+    "created_at": "2025-05-08T11:36:36.90114+00:00",
+    "id": 390,
+    "title": "Moto-X3M-Pool-Party",
+    "icon": "https://files.kidsearch.games/game/2d1/883/2d1883e9034bd2cb/images/240/motox3mpoolparty.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/moto_x3m_spooky_land/index.html",
+    "created_at": "2025-05-08T11:37:56.247506+00:00",
+    "id": 391,
+    "title": "Moto-X3M-Spooky-Land",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=204,height=204,fit=cover,f=auto/3f8a297822df891a1c158576b6461014.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/moto_x3m_winter/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 217,
+    "title": "Moto-X3M-Winter",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/motox3mwinter.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/neighborhood_defense/index.html",
+    "created_at": "2024-12-26T15:55:58.108332+00:00",
+    "id": 335,
+    "title": "Neighborhood-Defense",
+    "icon": "https://www.onlinegames.io/media/posts/848/Neighborhood-Defense.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://1bveca4tkimog.h5games.usercontent.goog/v/4bq2naj6mtutg/?url=https%3A%2F%2Fducklit.com%2Fleaderboard&wpc=ca-pub-8362959866002557&eids=95344402%2C95345172%2C95347018&origin=https%3A%2F%2Fgamesnacks.com&gameCenterId=autogames-lab&userActivityMetrics=true&features=InterstitialFreqCap__block_pga_1m_interstitials%2CInterstitialFreqCap__freq_cap_60s%2CMonetization__populate_google_global_correlator#pc=4060420627766317\\",
+    "created_at": "2025-05-11T13:01:22.622293+00:00",
+    "id": 396,
+    "title": "Neon-Dash",
+    "icon": "https://store-images.s-microsoft.com/image/apps.63891.14107635260374411.5955567f-4194-4f20-92d8-f31d13dbe1a2.58021304-8cb9-4941-a1b7-53f907816564",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/nova_craft/index.html",
+    "created_at": "2025-01-19T00:27:15.410845+00:00",
+    "id": 357,
+    "title": "Nova-Craft",
+    "icon": "https://static.fanbyte.com/uploads/2024/02/Infinite%20Craft%20Orange%20Complete.PNG",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/obby_but_youre_on_a_bike/index.html",
+    "created_at": "2025-05-11T23:31:27.895293+00:00",
+    "id": 397,
+    "title": "Obby-But-Youre-On-A-Bike",
+    "icon": "https://play-lh.googleusercontent.com/YwxYsY3FW_zhGTZuYjT9MOpv48FKKl90uyM4eyqOjVCPLEbosk2NALJc64arXdPhjq7d",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Multiplayer Platformer New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=orion-sandbox.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 306,
+    "title": "Orion-Sandbox",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/meat.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/ovo/index.html",
+    "created_at": "2024-12-31T17:20:05.142812+00:00",
+    "id": 345,
+    "title": "OvO",
+    "icon": "https://play-lh.googleusercontent.com/v7KwGdPjJGjJjRXn46sck4DwDBdKSeRzGN44CjiXUtKV0jjOi51Bt4wcXud0m-SkXg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/ovo_dimensions/index.html",
+    "created_at": "2025-02-23T19:41:38.768702+00:00",
+    "id": 367,
+    "title": "Ovo-Dimensions",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/4f967f68314c35872eeab27c849d32c4.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=pac_man.swf",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 221,
+    "title": "Pac-Man",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/pacman.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=PapaLouie2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 307,
+    "title": "Papa-Louie-2:-When-Burgers-Attack",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/papalouie2_100x100%20(1).webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=PapasBurgeria.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 308,
+    "title": "Papas-Burgeria",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/burger.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=papasfreezeria.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 309,
+    "title": "Papas-Freezeria",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/icecream.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=PapasPizzeria.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 310,
+    "title": "Papas-Pizzeria",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/papapizza.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=papastacomia.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 311,
+    "title": "Papas-Tacomia",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/taco.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://turbowarp.org/10128407/embed",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 223,
+    "title": "Paper-Minecraft",
+    "icon": "https://paper-mc.io/data/image/options/paperminecraft.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://paper-io.com/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 222,
+    "title": "Paper.io",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/paper.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://perfectpiano.h5games.usercontent.goog/v/48c3ch9soa7cg/?origin=https%3A%2F%2Fgamesnacks.com&gameCenterId=autogames-lab&userActivityMetrics=true&features=InterstitialFreqCap__block_pga_1m_interstitials%2CInterstitialFreqCap__freq_cap_60s%2CMonetization__run_slotcar_ads_in_game_center#pc=1619844197837912&preStart=1746968841463&gameData=eyJwZXJmZWN0LXBpYW5vOnNhdmVnYW1lIjoie1wicGVyZmVjdF9waWFub18xLjBcIjpcIntcXFwic2NvcmVzXFxcIjp7fSxcXFwidHV0b3JpYWxDb21wbGV0ZWRcXFwiOmZhbHNlfVwifSJ9",
+    "created_at": "2024-12-31T00:31:21.998021+00:00",
+    "id": 338,
+    "title": "Perfect-Piano",
+    "icon": "https://www.cokogames.com/wp-content/uploads/thumbs/custom/P/perfect-piano.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://html5.gamedistribution.com/e3349d1b8c724ea5b5b8a673c89900d8/?gd_sdk_referrer_url=https%3A%2F%2Fpixelgun3d.io%2Fpixel-gun-3d",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 225,
+    "title": "Pixel-Gun-3D",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/pixelgun3d.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/pixel_path/index.html",
+    "created_at": "2025-05-12T11:33:24.819437+00:00",
+    "id": 400,
+    "title": "Pixel-Path",
+    "icon": "https://www.gamenora.com/upload/games/thumbnails/Pixel%20Path.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Platformer New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/pizza_party/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 226,
+    "title": "Pizza-Party",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/pizzaparty.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Other"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/pvz_hybrid_story_mod/index.html",
+    "created_at": "2025-05-13T21:47:03.103369+00:00",
+    "id": 401,
+    "title": "Plants-Vs-Zombie-Hybrid-Story-Mod",
+    "icon": "https://files.brightestgames.com/games/image/2025/02/25/plants-vs-zombie-hybrid-story-mod-200x150-webp.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/pvz/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 232,
+    "title": "Plants-vs-Zombies",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/pvz.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/playground_latest_version/index.html",
+    "created_at": "2025-05-12T00:02:25.399496+00:00",
+    "id": 398,
+    "title": "Playground-Latest-Version",
+    "icon": "https://www.jopi.com/cdn-cgi/image/quality=78,width=200,height=200,fit=cover,f=auto/img/t/playground-latest-version.png",
+    "is_featured": true,
+    "desc": null,
+    "categories": "2D Fighting New"
+  },
+  {
+    "link": "https://mkgamesdev.github.io/MKGBA2.0/launcher.html#pokemonemerald",
+    "created_at": "2024-12-31T17:00:14.261438+00:00",
+    "id": 342,
+    "title": "Pokemon-Emerald",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/f/f7/PokemonEmeraldBox.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Emulator 2D"
+  },
+  {
+    "link": "https://pokemonfirered--dinosaurgamer.repl.co/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 227,
+    "title": "Pokemon-FireRed",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/pokemonfirered.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Emulator"
+  },
+  {
+    "link": "https://static.arcadespot.com/retroemulator.php?system=gba&game=2015/12/pokemon-ruby.zip",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 228,
+    "title": "Pokemon-Ruby",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/pokemonruby.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Emulator"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/polytrack/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 229,
+    "title": "Poly-Track",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/polytrack.webp",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=portal_tfv.swf",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 230,
+    "title": "Portal",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/portal.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=pottyracers2.swf",
+    "created_at": "2025-05-14T12:54:37.435397+00:00",
+    "id": 406,
+    "title": "Potty-Racers-2",
+    "icon": "https://i1.sndcdn.com/artworks-000562383393-irto4z-t1080x1080.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/president_simulator/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 231,
+    "title": "President-Simulator",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/pres_sim.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/race_survival_arena_king/index.html",
+    "created_at": "2025-05-23T16:27:45.556087+00:00",
+    "id": 410,
+    "title": "Race-Survival:-Arena-King",
+    "icon": "https://drift-hunters.io/data/image/game/race-survival-arena-king.png",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Multiplayer Platformer New "
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=papastacomia.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 312,
+    "title": "Raft-Wars",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/rw1.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=raftwars2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 313,
+    "title": "Raft-Wars-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/rw2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/ragdoll_archers/index.html",
+    "created_at": "2025-05-09T17:15:33.348776+00:00",
+    "id": 393,
+    "title": "Ragdoll-Archers",
+    "icon": "https://play-lh.googleusercontent.com/XMiWEMPbuq13oVcwYQ6ySLtZnBf7WpJ3rb7v-TM4MdFOvWfo1Z2hzSEAApRXzEcshjY",
+    "is_featured": true,
+    "desc": null,
+    "categories": "2D Fighting New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/rainbow_friends_return/index.html",
+    "created_at": "2025-05-13T22:02:40.707275+00:00",
+    "id": 402,
+    "title": "Rainbow-Friends-Return",
+    "icon": "https://gameplaymania.com/wp-content/uploads/thumbs/custom/R/rainbow-friends-roblox-thumbnail-gameplaymania.jpg",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Horror New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/rally_point/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 233,
+    "title": "Rally-Point",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/rallypoint.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/retro_bowl/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 234,
+    "title": "Retro-Bowl",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/retro_bowl_icon.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Sports 2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/retro_bowl_college/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 235,
+    "title": "Retro-Bowl-College",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/d98547374c4129bf441b754d495e41aa.png",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Sports 2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/rocket_soccer_derby/index.html",
+    "created_at": "2024-12-16T22:14:18.364058+00:00",
+    "id": 334,
+    "title": "Rocket-Soccer-Derby",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/rodeo_stampede/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 237,
+    "title": "Rodeo-Stampede",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/rodeo-stampede.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/rooftop_snipers/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 239,
+    "title": "Rooftop-Snipers",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/rooftop.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=run_3.swf",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 240,
+    "title": "Run-3",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/run3.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://eggshock.net/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 250,
+    "title": "Sh3llSh0ck",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/shell-shockers.webp",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/simply_up/index.html",
+    "created_at": "2025-01-12T13:44:46.869942+00:00",
+    "id": 350,
+    "title": "Simply-Up",
+    "icon": "https://image.api.playstation.com/vulcan/ap/rnd/202408/0914/c3a0bb67aa00932264afd654ec0217658cd1d51e7c6f6b23.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/slender_the_remake/index.html",
+    "created_at": "2025-04-09T00:23:39.189973+00:00",
+    "id": 380,
+    "title": "Slender-The-Remake",
+    "icon": "https://img.itch.zone/aW1nLzEyOTU4MDgxLnBuZw==/original/AqSNTg.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Horror"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/slime_rush_td/index.html",
+    "created_at": "2025-05-10T11:56:24.534309+00:00",
+    "id": 395,
+    "title": "Slime-Rush-TD",
+    "icon": "https://gameforge.com/de-DE/littlegames/includes/images/games/9920_5eb3f046d8fab.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/slope/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 244,
+    "title": "Slope",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/slope.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/slowroadsio/index.html",
+    "created_at": "2025-06-01T11:56:04.173601+00:00",
+    "id": 412,
+    "title": "SlowRoads.io",
+    "icon": "https://old.slowroads.io/img.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/smash_karts/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 247,
+    "title": "Smash-Karts",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/smashkarts.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/snow_rider_3d/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 248,
+    "title": "Snow-Rider-3D",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/snowrider3d.webp",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/soccer_random/index.html",
+    "created_at": "2025-04-08T12:23:43.116797+00:00",
+    "id": 375,
+    "title": "Soccer-Random",
+    "icon": "https://scout.wgimager.com/f_webp/q_90/https://static.wgplayground.com/e9797f4b38be6e209ecd5560c97cde0f/wgplayground/5341045ce43f5ff52bbc768555babb47.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/solar_smash/index.html",
+    "created_at": "2025-01-18T13:27:33.18378+00:00",
+    "id": 353,
+    "title": "Solar-Smash",
+    "icon": "https://play-lh.googleusercontent.com/X-4jN5PyZqa8YMEQoGSDhgxNGbzvoQT5tiArPZ_6RqD77SQ_gC0LdZpYb2cplO0XNGY=w526-h296-rw",
+    "is_featured": false,
+    "desc": "fullscreen to play!, takes a while to load",
+    "categories": "Other"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/soviet_sniper/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 158,
+    "title": "Soviet-Sniper",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/cod.webp",
+    "is_featured": false,
+    "desc": "fullscreen to play",
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/spider_dude_parkour/index.html",
+    "created_at": "2025-05-16T13:50:04.10394+00:00",
+    "id": 409,
+    "title": "Spider-Dude-Parkour",
+    "icon": "https://kbhgames.com/wp-content/uploads/2024/06/Spider-Dude-Parkour.png",
+    "is_featured": true,
+    "desc": null,
+    "categories": "Platformer New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/spiral_roll/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 249,
+    "title": "Spiral-Roll",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/spiralroll.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Other"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=Stealing_the_Diamond.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 314,
+    "title": "Stealing-the-Diamond",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/stealdiamond.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/stickman_hook/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 252,
+    "title": "StickMan-Hook",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/stickmanhook.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/stickman_parkour/index.html",
+    "created_at": "2025-05-04T19:58:38.810226+00:00",
+    "id": 388,
+    "title": "Stickman-Parkour",
+    "icon": "https://unblocked-games.s3.amazonaws.com/media/posts/573/stickman-parkour-512.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/stickman_peacekeeper/index.html?kiz10",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 251,
+    "title": "Stickman-Peacekeeper",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/stickmanpeace.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=stormthehouse.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 317,
+    "title": "Storm-the-House",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/stormthehouse.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=Storm_the_House_2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 315,
+    "title": "Storm-the-House-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/storm-the-house-2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=stormthehouse3.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 316,
+    "title": "Storm-the-House-3",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/storm-house-3.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/street_fighter/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 253,
+    "title": "Street-Fighter",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/street-fighter.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/subway_surfers_barcelona/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 256,
+    "title": "Subway-Surfers-Barcelona",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/subway.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/super_mario_64/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 245,
+    "title": "Super-Mario-64",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/supermario64.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Emulator"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/super_mario_bros/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 257,
+    "title": "Super-Mario-Bros",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/super_mario_bros_old.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=super_mario_defense.swf",
+    "created_at": "2025-05-14T12:55:21.179481+00:00",
+    "id": 407,
+    "title": "Super-Mario-Defense",
+    "icon": "https://evilgames.eu/img/flash/og-super-mario-defence.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Platformer New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=supersmashflash2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 318,
+    "title": "Super-Smash-Flash-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/smashflash2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/super_star_car/gabe.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 258,
+    "title": "Super-Star-Car",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/superstarcar.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/super_stickman_golf/index.html",
+    "created_at": "2025-04-20T19:08:33.096935+00:00",
+    "id": 382,
+    "title": "Super-Stickman-Golf",
+    "icon": "https://play-lh.googleusercontent.com/k0fsuO0WvNtTKpxA3C0JgwdM6egyP4ZDakRlJwi_BWm4noZTwoNZzfB-0ugrFKPaAYw",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Sports 2D"
+  },
+  {
+    "link": "https://html5.gamedistribution.com/rvvASMiM/f1c451e586c04b4c8cba01b0c50d9090/index.html?gd_sdk_referrer_url=https%3A%2F%2Fwww.miniplay.com%2Fgame%2Fsurvivor-io&mp_api_as3_url=https%3A%2F%2Fssl.minijue",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 259,
+    "title": "Survivor.io",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/survivor.io.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=SwordsandSandals2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 319,
+    "title": "Swords-and-Sandals-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/sas2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/battle_simulator/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 260,
+    "title": "TABS",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/tabs.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/tanuki_sunset/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 261,
+    "title": "Tanuki-Sunset",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/tanuki.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Driving"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/temple_run_2/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 262,
+    "title": "Temple-Run-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/templerun2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://arulandu.github.io/flight-simulator/",
+    "created_at": "2025-01-19T00:23:36.67687+00:00",
+    "id": 356,
+    "title": "Test-Flight-Simulator",
+    "icon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73206bd9-257c-4f50-b1f3-59a306e24084/dg2vexe-ac1afd41-d37f-46f7-9d0f-cc4dab6694a7.png/v1/fill/w_512,h_512/microsoft_flight_simulator_icon_by_hatemtiger_dg2vexe-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvNzMyMDZiZDktMjU3Yy00ZjUwLWIxZjMtNTlhMzA2ZTI0MDg0XC9kZzJ2ZXhlLWFjMWFmZDQxLWQzN2YtNDZmNy05ZDBmLWNjNGRhYjY2OTRhNy5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.eC-U9Skb0W06tu_7ivgBh2P08bpFmAn2Z2WjM45NW5w",
+    "is_featured": false,
+    "desc": "fullscreen to play!",
+    "categories": "Sports"
+  },
+  {
+    "link": "https://scratch.mit.edu/projects/451773001/embed",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 264,
+    "title": "Tetris",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/tetris.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=thebindingofisaac.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 320,
+    "title": "The-Binding-of-Isaac",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/isaac.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=TheImpossibleQuiz.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 321,
+    "title": "The-Impossible-Quiz",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/impossible.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=TheImpossibleQuiz2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 301,
+    "title": "The-Impossible-Quiz-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/impossible2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=theworldshardestgame.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 323,
+    "title": "The-Worlds-Hardest-Game",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/hardgame1.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=theworldshardestgame2.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 324,
+    "title": "The-Worlds-Hardest-Game-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/hardgame2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/thorns_and_ballons/index.html",
+    "created_at": "2025-05-24T11:10:48.2319+00:00",
+    "id": 411,
+    "title": "Thorns-And-Ballons",
+    "icon": "https://play-lh.googleusercontent.com/45HfPjWkdT8k1Y-1kb2ce9dtU4cIq4PXZGPSOQDBHRO_sBWG7Fu9mKKsk9WylHW1Lg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Puzzle New"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/time_shooter_2/index.html",
+    "created_at": "2024-12-26T16:04:10.122081+00:00",
+    "id": 336,
+    "title": "Time-Shooter-2",
+    "icon": "https://img.gamedistribution.com/62a72f2da7cb4b609579a47653546e6a-512x512.jpeg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/time_shooter_swat/index.html",
+    "created_at": "2025-02-04T01:02:00.594865+00:00",
+    "id": 364,
+    "title": "Time-Shooter-Swat",
+    "icon": "https://gamecomets.com/thumbs/time-shooter-3--swat-thumb_1.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/?file=tinycastle.swf",
+    "created_at": "2024-12-01T23:54:26.227855+00:00",
+    "id": 322,
+    "title": "Tiny-Castle",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/tinycastle.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Flash"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/truck_loader_4/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 267,
+    "title": "Truck-Loader-4",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/truckloader4.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/tunnel_rush_2/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 269,
+    "title": "Tunnel-Rush-2",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/tunnelrush.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/turnturn/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 270,
+    "title": "Turn-Turn",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/turn-turn.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/uno/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 271,
+    "title": "Uno",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/uno.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Puzzle"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/vapor_trails/index.html",
+    "created_at": "2025-04-06T15:09:35.575452+00:00",
+    "id": 373,
+    "title": "Vapor-Trails",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTymQmEEo8ZW3-1qd8YfQk9AUJEeNlTt6F_LA&s",
+    "is_featured": false,
+    "desc": "Return to the surface of Vapor City. Exact revenge with your fists in a fast, momentum-based metroidvania. Fullscreen to play correctly.",
+    "categories": "2D"
+  },
+  {
+    "link": "https://vectaria.io/home?noads=true",
+    "created_at": "2025-01-12T13:46:19.305733+00:00",
+    "id": 351,
+    "title": "Vectaria.io",
+    "icon": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/260f3251a55c78a27fd15b9e4d675f88.png",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://venge.io",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 272,
+    "title": "Venge.io",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/venge.io.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/vex_8/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 273,
+    "title": "Vex-8",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/vex-8.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/volley_random/index.html",
+    "created_at": "2025-04-08T12:25:58.016128+00:00",
+    "id": 378,
+    "title": "Volley-Random",
+    "icon": "https://scout.wgimager.com/f_webp/q_90/https://static.wgplayground.com/759df58c48c52d9ec5692531607df6d6/wgplayground/ef27e9f2407a0e086cd29a604e83a66f.jpg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D Sports"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/where_is_the_water/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 274,
+    "title": "Wheres-My-Water?",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/wheresmywater.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "2D"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/yeti_sensation/gabe.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 277,
+    "title": "Yeti-Sensation",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/yetidash.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  },
+  {
+    "link": "https://yohoho.io/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 278,
+    "title": "Yohoho.io",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/yohoho.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/zombie_derby_pixel_survival/index.html",
+    "created_at": "2025-04-23T15:59:10.927546+00:00",
+    "id": 384,
+    "title": "Zombie-Derby-Pixel-Survival",
+    "icon": "https://play-lh.googleusercontent.com/MkkF1qcee9ej5Njn8tru6S6op2lx_Gvj1pMwHO6LkMyhry5HdAJ0XRDJnxFJ--HY22t3",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Fighting"
+  },
+  {
+    "link": "https://zombsroyale.io/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 279,
+    "title": "Zombs-Royale",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/zombs.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://zombs.io/",
+    "created_at": "2025-04-09T00:15:28.579202+00:00",
+    "id": 379,
+    "title": "Zombs.io",
+    "icon": "https://assets.funnygames.org/8/112358/89988/146x146/zombsio.webp",
+    "is_featured": false,
+    "desc": "Build towers to defend against zombies. Build gold mines to generate gold and upgrade your buildings. Use the Shop to buy weapons and upgrade them.\r\ngo here zombs.io if this does not load",
+    "categories": "2D Fighting"
+  },
+  {
+    "link": "https://jptragar.glitch.me/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 145,
+    "title": "agar.io",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/agar.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://bloxd.io",
+    "created_at": "2025-02-04T00:54:03.201707+00:00",
+    "id": 363,
+    "title": "bloxd.io",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Bloxd.io_Logo.jpeg/766px-Bloxd.io_Logo.jpeg",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://tribals.io/",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 266,
+    "title": "tribals.io",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/tribalsio.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Multiplayer"
+  },
+  {
+    "link": "https://maddox.page/basic-ruffle-player/html/xx142-b2.exe/index.html",
+    "created_at": "2024-12-01T21:22:25.717467+00:00",
+    "id": 276,
+    "title": "xx142-b2.exe",
+    "icon": "https://raw.githubusercontent.com/duckmath/icons/refs/heads/main/xx142-b2.webp",
+    "is_featured": false,
+    "desc": null,
+    "categories": "Platformer"
+  }
+]

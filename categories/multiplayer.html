@@ -1,0 +1,396 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="School, Learning, Apps, School Website, Learn, Application, Site">
+  <meta name="description" content="Learn and have fun!">
+  <meta name="language" content="English">
+  <meta property="og:image" content="https://example.com/assets/img/duck.webp">
+  <title>Multiplayer Games</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #f0f0f0;
+      display: flex;
+    }
+    .sidebar {
+      width: 200px;
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-right: 20px;
+      position: fixed;
+      height: 100vh;
+      overflow-y: auto;
+    }
+    .sidebar h2 {
+      margin-top: 0;
+      color: #333;
+    }
+    .sidebar ul {
+      list-style: none;
+      padding: 0;
+    }
+    .sidebar li {
+      margin: 10px 0;
+    }
+    .sidebar a {
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+    .sidebar a:hover {
+      color: #007bff;
+    }
+    .content {
+      flex: 1;
+      margin-left: 220px;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    .search-container {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .search-container input {
+      padding: 10px;
+      width: 300px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    .games-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 20px;
+      padding: 20px;
+    }
+    .game-card {
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      overflow: hidden;
+      transition: transform 0.3s;
+    }
+    .game-card:hover {
+      transform: translateY(-5px);
+    }
+    .game-card img {
+      width: 100%;
+      height: 150px;
+      object-fit: cover;
+    }
+    .game-card h2 {
+      padding: 10px;
+      margin: 0;
+      font-size: 1.2em;
+      text-align: center;
+    }
+    .game-card a {
+      text-decoration: none;
+      color: inherit;
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <h2>Categories</h2>
+    <ul>
+      <li><a href="../index.html">All</a></li>
+      
+      <li><a href="2d.html">2D</a></li>
+      
+      <li><a href="2d  platformer.html">2D  Platformer</a></li>
+      
+      <li><a href="2d clicker.html">2D Clicker</a></li>
+      
+      <li><a href="2d fighting.html">2D Fighting</a></li>
+      
+      <li><a href="2d fighting new.html">2D Fighting New</a></li>
+      
+      <li><a href="2d horror.html">2D Horror</a></li>
+      
+      <li><a href="2d multiplayer.html">2D Multiplayer</a></li>
+      
+      <li><a href="2d new.html">2D New</a></li>
+      
+      <li><a href="2d platformer.html">2D Platformer</a></li>
+      
+      <li><a href="2d platformer new.html">2D Platformer New</a></li>
+      
+      <li><a href="2d puzzle new.html">2D Puzzle New</a></li>
+      
+      <li><a href="2d sports.html">2D Sports</a></li>
+      
+      <li><a href="2d sports new.html">2D Sports New</a></li>
+      
+      <li><a href="clicker.html">Clicker</a></li>
+      
+      <li><a href="driving.html">Driving</a></li>
+      
+      <li><a href="driving new.html">Driving New</a></li>
+      
+      <li><a href="emulator.html">Emulator</a></li>
+      
+      <li><a href="emulator 2d.html">Emulator 2D</a></li>
+      
+      <li><a href="emulator fighting.html">Emulator Fighting</a></li>
+      
+      <li><a href="fighter.html">Fighter</a></li>
+      
+      <li><a href="fighting.html">Fighting</a></li>
+      
+      <li><a href="fighting 2d.html">Fighting 2D</a></li>
+      
+      <li><a href="fighting multiplayer.html">Fighting Multiplayer</a></li>
+      
+      <li><a href="flash.html">Flash</a></li>
+      
+      <li><a href="horror.html">Horror</a></li>
+      
+      <li><a href="horror new.html">Horror New</a></li>
+      
+      <li><a href="multiplayer.html">Multiplayer</a></li>
+      
+      <li><a href="multiplayer 2d.html">Multiplayer 2D</a></li>
+      
+      <li><a href="multiplayer driving.html">Multiplayer Driving</a></li>
+      
+      <li><a href="multiplayer fighting.html">Multiplayer Fighting</a></li>
+      
+      <li><a href="multiplayer platformer.html">Multiplayer Platformer</a></li>
+      
+      <li><a href="multiplayer platformer new.html">Multiplayer Platformer New</a></li>
+      
+      <li><a href="multiplayer platformer new .html">Multiplayer Platformer New </a></li>
+      
+      <li><a href="other.html">Other</a></li>
+      
+      <li><a href="platformer.html">Platformer</a></li>
+      
+      <li><a href="platformer new.html">Platformer New</a></li>
+      
+      <li><a href="puzzle.html">Puzzle</a></li>
+      
+      <li><a href="sports.html">Sports</a></li>
+      
+      <li><a href="sports 2d.html">Sports 2D</a></li>
+      
+    </ul>
+  </div>
+  <div class="content">
+    <h1>Multiplayer Games</h1>
+    <div class="search-container">
+      <input type="text" id="searchInput" placeholder="Search games..." onkeyup="searchGames()">
+    </div>
+    <div class="games-grid" id="gamesGrid">
+      
+      <div class="game-card">
+        <a href="../games/minecraft.html">
+          <img src="https://images.icon-icons.com/2699/PNG/512/minecraft_logo_icon_168974.png" alt="Minecraft">
+          <h2>Minecraft</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/sh3llsh0ck.html">
+          <img src="../assets/icons/shell-shockers.webp" alt="Sh3llSh0ck">
+          <h2>Sh3llSh0ck</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/1v1.lol.html">
+          <img src="../assets/icons/1v1.lol-old.webp" alt="1v1.lol">
+          <h2>1v1.lol</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/bridge-race.html">
+          <img src="https://play-lh.googleusercontent.com/ym7hOY7sjtsuZ-CR2tmvtsNEgPTkufUPKdaUKcNHOvJS3bf7CIxA7Eyc23FbnzziPsc" alt="Bridge-Race">
+          <h2>Bridge-Race</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/cs-online.html">
+          <img src="../assets/icons/1.6.webp" alt="CS-Online">
+          <h2>CS-Online</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/club-penguin.html">
+          <img src="../assets/icons/clubpenguin.webp" alt="Club-Penguin">
+          <h2>Club-Penguin</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/combat-arms-reloaded.html">
+          <img src="../assets/icons/combatreloaded.webp" alt="Combat-Arms-Reloaded">
+          <h2>Combat-Arms-Reloaded</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/crazy-karts.html">
+          <img src="../assets/icons/crazy-karts.webp" alt="Crazy-Karts">
+          <h2>Crazy-Karts</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/funny-shooter-2.html">
+          <img src="../assets/icons/funntshooes.webp" alt="Funny-Shooter-2">
+          <h2>Funny-Shooter-2</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/fury-wars.html">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0YXIgTFPRG0yt7CUDrBIefNhNgCpYaZmuUIuCo0QIkdXP1GrR0SsQJogMcaPIU6fG513qDw" alt="Fury-Wars">
+          <h2>Fury-Wars</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/grand-prix-multiplication.html">
+          <img src="../assets/icons/grandprix.webp" alt="Grand-Prix-Multiplication">
+          <h2>Grand-Prix-Multiplication</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/hole.io.html">
+          <img src="../assets/icons/hole.io.webp" alt="Hole.io">
+          <h2>Hole.io</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/krunker.io.html">
+          <img src="../assets/icons/krunker.io.webp" alt="Krunker.io">
+          <h2>Krunker.io</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/lolbeans.io.html">
+          <img src="https://www.kidssearch.com/images/LOLBeans-io-Game.png" alt="Lolbeans.io">
+          <h2>Lolbeans.io</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/make-it-meme.html">
+          <img src="../assets/icons/make-it-meme.webp" alt="Make-it-Meme">
+          <h2>Make-it-Meme</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/paper.io.html">
+          <img src="../assets/icons/paper.webp" alt="Paper.io">
+          <h2>Paper.io</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/pixel-gun-3d.html">
+          <img src="../assets/icons/pixelgun3d.webp" alt="Pixel-Gun-3D">
+          <h2>Pixel-Gun-3D</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/rooftop-snipers.html">
+          <img src="../assets/icons/rooftop.webp" alt="Rooftop-Snipers">
+          <h2>Rooftop-Snipers</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/soviet-sniper.html">
+          <img src="../assets/icons/cod.webp" alt="Soviet-Sniper">
+          <h2>Soviet-Sniper</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/vectaria.io.html">
+          <img src="https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/260f3251a55c78a27fd15b9e4d675f88.png" alt="Vectaria.io">
+          <h2>Vectaria.io</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/venge.io.html">
+          <img src="../assets/icons/venge.io.webp" alt="Venge.io">
+          <h2>Venge.io</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/yohoho.io.html">
+          <img src="../assets/icons/yohoho.webp" alt="Yohoho.io">
+          <h2>Yohoho.io</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/zombs-royale.html">
+          <img src="../assets/icons/zombs.webp" alt="Zombs-Royale">
+          <h2>Zombs-Royale</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/agar.io.html">
+          <img src="../assets/icons/agar.webp" alt="agar.io">
+          <h2>agar.io</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/bloxd.io.html">
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Bloxd.io_Logo.jpeg/766px-Bloxd.io_Logo.jpeg" alt="bloxd.io">
+          <h2>bloxd.io</h2>
+        </a>
+      </div>
+      
+      <div class="game-card">
+        <a href="../games/tribals.io.html">
+          <img src="../assets/icons/tribalsio.webp" alt="tribals.io">
+          <h2>tribals.io</h2>
+        </a>
+      </div>
+      
+    </div>
+  </div>
+  <script>
+    function searchGames() {
+      const input = document.getElementById('searchInput');
+      const filter = input.value.toUpperCase();
+      const gamesGrid = document.getElementById('gamesGrid');
+      const gameCards = gamesGrid.getElementsByClassName('game-card');
+
+      for (let i = 0; i < gameCards.length; i++) {
+        const title = gameCards[i].getElementsByTagName('h2')[0].innerText;
+        if (title.toUpperCase().indexOf(filter) > -1) {
+          gameCards[i].style.display = "";
+        } else {
+          gameCards[i].style.display = "none";
+        }
+      }
+    }
+  </script>
+</body>
+</html>
